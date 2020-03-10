@@ -1,0 +1,9659 @@
+Day: 0
+Daily Profit: 0
+Daily Rentals: 0
+There are 24 cars available for rent. Here are your options!
+LUX732
+SUV355
+LUX935
+SUV330
+LUX527
+LUX338
+LUX305
+SUV979
+STA199
+ECO893
+ECO794
+STA299
+STA783
+SUV603
+SUV459
+SUV888
+ECO755
+ECO414
+STA313
+SUV204
+SUV115
+ECO632
+ECO989
+STA209
+The current rentals: 
+Day: 1
+Daily Profit: 0
+Daily Rentals: 0
+There are 15 cars available for rent. Here are your options!
+LUX732
+SUV330
+LUX305
+STA199
+ECO893
+STA299
+SUV603
+SUV459
+SUV888
+ECO414
+STA313
+SUV204
+ECO632
+ECO989
+STA209
+The current rentals: 
+Carla
+STA783
+LUX527
+Bickslow
+SUV979
+ECO794
+Gajeel
+SUV355
+Bickslow
+SUV979
+ECO794
+Wendy
+STA783
+LUX935
+SUV115
+Mavis
+ECO755
+ECO755
+LUX338
+Day: 2
+Daily Profit: 0
+Daily Rentals: 0
+There are 6 cars available for rent. Here are your options!
+SUV330
+LUX305
+ECO893
+STA313
+ECO632
+STA209
+The current rentals: 
+Carla
+STA783
+LUX527
+Bickslow
+SUV979
+ECO794
+Gajeel
+SUV355
+Bickslow
+SUV979
+ECO794
+Wendy
+STA783
+LUX935
+SUV115
+ECO755
+ECO794
+LUX935
+Mavis
+ECO755
+ECO755
+LUX338
+SUV888
+LUX935
+STA199
+Mavis
+ECO755
+ECO755
+LUX338
+SUV888
+LUX935
+STA199
+Rogue
+STA299
+Lisanna
+ECO989
+SUV355
+SUV204
+Wendy
+STA783
+LUX935
+SUV115
+ECO755
+ECO794
+LUX935
+Igneel
+STA783
+SUV603
+LUX732
+Evergreen
+ECO989
+SUV888
+Makarov
+ECO794
+ECO414
+SUV459
+Customer: Gajeel
+Total Days Rented: 2
+License Plate: SUV355
+Car Add Ons: 
+The total cost for the rental: 0
+GG better luck next time!
+Day: 3
+Daily Profit: 0
+Daily Rentals: 1
+There are 2 cars available for rent. Here are your options!
+ECO893
+STA313
+The current rentals: 
+Carla
+STA783
+LUX527
+Bickslow
+SUV979
+ECO794
+Bickslow
+SUV979
+ECO794
+Wendy
+STA783
+LUX935
+SUV115
+ECO755
+ECO794
+LUX935
+LUX935
+ECO632
+STA209
+Mavis
+ECO755
+ECO755
+LUX338
+SUV888
+LUX935
+STA199
+Mavis
+ECO755
+ECO755
+LUX338
+SUV888
+LUX935
+STA199
+Rogue
+STA299
+STA783
+SUV355
+Lisanna
+ECO989
+SUV355
+SUV204
+LUX305
+SUV330
+LUX527
+Wendy
+STA783
+LUX935
+SUV115
+ECO755
+ECO794
+LUX935
+LUX935
+ECO632
+STA209
+Igneel
+STA783
+SUV603
+LUX732
+Evergreen
+ECO989
+SUV888
+Makarov
+ECO794
+ECO414
+SUV459
+Wendy
+STA783
+LUX935
+SUV115
+ECO755
+ECO794
+LUX935
+LUX935
+ECO632
+STA209
+Rogue
+STA299
+STA783
+SUV355
+Gildarts
+LUX527
+LUX305
+LUX527
+SUV603
+STA299
+Gildarts
+LUX527
+LUX305
+LUX527
+SUV603
+STA299
+Lisanna
+ECO989
+SUV355
+SUV204
+LUX305
+SUV330
+LUX527
+Mavis
+ECO755
+ECO755
+LUX338
+SUV888
+LUX935
+STA199
+Customer: Bickslow
+Total Days Rented: 5
+License Plate: SUV979
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO794
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Day: 4
+Daily Profit: 0
+Daily Rentals: 2
+There are 4 cars available for rent. Here are your options!
+SUV979
+ECO893
+ECO794
+STA313
+The current rentals: 
+Carla
+STA783
+LUX527
+Bickslow
+ECO794
+Wendy
+STA783
+LUX935
+SUV115
+ECO755
+ECO794
+LUX935
+LUX935
+ECO632
+STA209
+Mavis
+ECO755
+ECO755
+LUX338
+SUV888
+LUX935
+STA199
+Mavis
+ECO755
+ECO755
+LUX338
+SUV888
+LUX935
+STA199
+Rogue
+STA299
+STA783
+SUV355
+Lisanna
+ECO989
+SUV355
+SUV204
+LUX305
+SUV330
+LUX527
+Wendy
+STA783
+LUX935
+SUV115
+ECO755
+ECO794
+LUX935
+LUX935
+ECO632
+STA209
+Igneel
+STA783
+SUV603
+LUX732
+Evergreen
+ECO989
+SUV888
+Makarov
+ECO794
+ECO414
+SUV459
+Wendy
+STA783
+LUX935
+SUV115
+ECO755
+ECO794
+LUX935
+LUX935
+ECO632
+STA209
+Rogue
+STA299
+STA783
+SUV355
+Gildarts
+LUX527
+LUX305
+LUX527
+SUV603
+STA299
+Gildarts
+LUX527
+LUX305
+LUX527
+SUV603
+STA299
+Lisanna
+ECO989
+SUV355
+SUV204
+LUX305
+SUV330
+LUX527
+Mavis
+ECO755
+ECO755
+LUX338
+SUV888
+LUX935
+STA199
+Customer: Carla
+Total Days Rented: 4
+License Plate: STA783
+Car Add Ons: Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: LUX527
+Car Add Ons: Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Rogue
+Total Days Rented: 4
+License Plate: STA299
+Car Add Ons: 
+License Plate: STA783
+Car Add Ons: 
+License Plate: SUV355
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 5
+Daily Profit: 0
+Daily Rentals: 4
+There are 7 cars available for rent. Here are your options!
+SUV355
+LUX527
+SUV979
+ECO893
+ECO794
+STA299
+STA313
+The current rentals: 
+Bickslow
+ECO794
+Wendy
+STA783
+LUX935
+SUV115
+ECO755
+ECO794
+LUX935
+LUX935
+ECO632
+STA209
+Mavis
+ECO755
+ECO755
+LUX338
+SUV888
+LUX935
+STA199
+Mavis
+ECO755
+ECO755
+LUX338
+SUV888
+LUX935
+STA199
+Lisanna
+ECO989
+SUV355
+SUV204
+LUX305
+SUV330
+LUX527
+Wendy
+STA783
+LUX935
+SUV115
+ECO755
+ECO794
+LUX935
+LUX935
+ECO632
+STA209
+Igneel
+STA783
+SUV603
+LUX732
+Evergreen
+ECO989
+SUV888
+Makarov
+ECO794
+ECO414
+SUV459
+Wendy
+STA783
+LUX935
+SUV115
+ECO755
+ECO794
+LUX935
+LUX935
+ECO632
+STA209
+Rogue
+STA783
+Gildarts
+LUX527
+LUX305
+LUX527
+SUV603
+STA299
+Gildarts
+LUX527
+LUX305
+LUX527
+SUV603
+STA299
+Lisanna
+ECO989
+SUV355
+SUV204
+LUX305
+SUV330
+LUX527
+Mavis
+ECO755
+ECO755
+LUX338
+SUV888
+LUX935
+STA199
+Gray
+STA783
+Customer: Mavis
+Total Days Rented: 7
+License Plate: ECO755
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, GPS - $15, Radio - $10, Radio - $10, GPS - $15, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO755
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, GPS - $15, Radio - $10, Radio - $10, GPS - $15, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: LUX338
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV888
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: LUX935
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: STA199
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Lisanna
+Total Days Rented: 5
+License Plate: ECO989
+Car Add Ons: Radio - $10, Radio - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV355
+Car Add Ons: Radio - $10, Radio - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV204
+Car Add Ons: Radio - $10, Radio - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: LUX305
+Car Add Ons: Radio - $10, Radio - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV330
+Car Add Ons: Radio - $10, Radio - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: LUX527
+Car Add Ons: Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Igneel
+Total Days Rented: 4
+License Plate: STA783
+Car Add Ons: 
+License Plate: SUV603
+Car Add Ons: 
+License Plate: LUX732
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Wendy
+Total Days Rented: 7
+License Plate: STA783
+Car Add Ons: 
+License Plate: LUX935
+Car Add Ons: 
+License Plate: SUV115
+Car Add Ons: 
+License Plate: ECO755
+Car Add Ons: 
+License Plate: ECO794
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: LUX935
+Car Add Ons: 
+License Plate: LUX935
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+License Plate: STA209
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Gildarts
+Total Days Rented: 5
+License Plate: LUX527
+Car Add Ons: Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: LUX305
+Car Add Ons: Radio - $10, Radio - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: LUX527
+Car Add Ons: Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV603
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Gray
+Total Days Rented: 1
+License Plate: STA783
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 6
+Daily Profit: 0
+Daily Rentals: 10
+There are 16 cars available for rent. Here are your options!
+LUX732
+SUV355
+LUX935
+SUV330
+LUX305
+SUV979
+STA199
+STA299
+STA783
+SUV888
+ECO755
+STA313
+SUV115
+ECO632
+ECO989
+STA209
+The current rentals: 
+Bickslow
+ECO794
+Mavis
+ECO755
+SUV888
+STA199
+Wendy
+LUX935
+ECO755
+LUX935
+ECO632
+Evergreen
+ECO989
+SUV888
+Makarov
+ECO794
+ECO414
+SUV459
+LUX527
+LUX338
+ECO414
+SUV603
+SUV459
+ECO893
+Wendy
+LUX935
+ECO755
+LUX935
+ECO632
+Rogue
+STA783
+Gildarts
+LUX305
+SUV603
+Lisanna
+SUV355
+LUX305
+LUX527
+Mavis
+ECO755
+SUV888
+STA199
+Makarov
+ECO794
+ECO414
+SUV459
+LUX527
+LUX338
+ECO414
+SUV603
+SUV459
+ECO893
+Cana
+SUV204
+LUX527
+Gajeel
+ECO794
+Makarov
+ECO794
+ECO414
+SUV459
+LUX527
+LUX338
+ECO414
+SUV603
+SUV459
+ECO893
+Cana
+SUV204
+LUX527
+Lucy
+LUX527
+Customer: Gajeel
+Total Days Rented: 1
+License Plate: ECO794
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 7
+Daily Profit: 0
+Daily Rentals: 11
+There are 12 cars available for rent. Here are your options!
+LUX732
+SUV330
+SUV979
+STA199
+STA299
+STA783
+SUV888
+STA313
+SUV115
+ECO632
+ECO989
+STA209
+The current rentals: 
+Bickslow
+ECO794
+Mavis
+ECO755
+SUV888
+STA199
+Wendy
+LUX935
+ECO755
+LUX935
+ECO632
+LUX305
+SUV603
+SUV355
+Evergreen
+ECO989
+SUV888
+Makarov
+ECO794
+ECO414
+SUV459
+LUX527
+LUX338
+ECO414
+SUV603
+SUV459
+ECO893
+Wendy
+LUX935
+ECO755
+LUX935
+ECO632
+LUX305
+SUV603
+SUV355
+Rogue
+STA783
+Gildarts
+LUX305
+SUV603
+Lisanna
+SUV355
+LUX305
+LUX527
+Mavis
+ECO755
+SUV888
+STA199
+Makarov
+ECO794
+ECO414
+SUV459
+LUX527
+LUX338
+ECO414
+SUV603
+SUV459
+ECO893
+Cana
+SUV204
+LUX527
+Makarov
+ECO794
+ECO414
+SUV459
+LUX527
+LUX338
+ECO414
+SUV603
+SUV459
+ECO893
+Cana
+SUV204
+LUX527
+Lucy
+LUX527
+Mirajane
+LUX935
+ECO414
+SUV204
+Happy
+ECO755
+SUV204
+SUV459
+Wendy
+LUX935
+ECO755
+LUX935
+ECO632
+LUX305
+SUV603
+SUV355
+Juvia
+ECO794
+Customer: Evergreen
+Total Days Rented: 5
+License Plate: ECO989
+Car Add Ons: 
+License Plate: SUV888
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Cana
+Total Days Rented: 3
+License Plate: SUV204
+Car Add Ons: 
+License Plate: LUX527
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 8
+Daily Profit: 0
+Daily Rentals: 13
+There are 13 cars available for rent. Here are your options!
+LUX732
+LUX527
+SUV979
+STA199
+STA299
+STA783
+SUV888
+STA313
+SUV204
+SUV115
+ECO632
+ECO989
+STA209
+The current rentals: 
+Bickslow
+ECO794
+Mavis
+ECO755
+SUV888
+STA199
+Wendy
+LUX935
+ECO755
+LUX935
+ECO632
+LUX305
+SUV603
+SUV355
+ECO755
+SUV603
+SUV459
+Makarov
+ECO794
+ECO414
+SUV459
+LUX527
+LUX338
+ECO414
+SUV603
+SUV459
+ECO893
+Wendy
+LUX935
+ECO755
+LUX935
+ECO632
+LUX305
+SUV603
+SUV355
+ECO755
+SUV603
+SUV459
+Rogue
+STA783
+Gildarts
+LUX305
+SUV603
+Lisanna
+SUV355
+LUX305
+LUX527
+Mavis
+ECO755
+SUV888
+STA199
+Makarov
+ECO794
+ECO414
+SUV459
+LUX527
+LUX338
+ECO414
+SUV603
+SUV459
+ECO893
+Makarov
+ECO794
+ECO414
+SUV459
+LUX527
+LUX338
+ECO414
+SUV603
+SUV459
+ECO893
+Cana
+LUX527
+Lucy
+LUX527
+Mirajane
+LUX935
+ECO414
+SUV204
+Happy
+ECO755
+SUV204
+SUV459
+Wendy
+LUX935
+ECO755
+LUX935
+ECO632
+LUX305
+SUV603
+SUV355
+ECO755
+SUV603
+SUV459
+Juvia
+ECO794
+Wendy
+LUX935
+ECO755
+LUX935
+ECO632
+LUX305
+SUV603
+SUV355
+ECO755
+SUV603
+SUV459
+Erza
+SUV459
+Natsu
+SUV330
+Customer: Lucy
+Total Days Rented: 3
+License Plate: LUX527
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Erza
+Total Days Rented: 1
+License Plate: SUV459
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 9
+Daily Profit: 0
+Daily Rentals: 15
+There are 4 cars available for rent. Here are your options!
+LUX527
+SUV888
+SUV204
+STA209
+The current rentals: 
+Bickslow
+ECO794
+Mavis
+ECO755
+SUV888
+STA199
+Wendy
+LUX935
+ECO755
+LUX935
+ECO632
+LUX305
+SUV603
+SUV355
+ECO755
+SUV603
+SUV459
+Makarov
+ECO794
+ECO414
+SUV459
+LUX527
+LUX338
+ECO414
+SUV603
+SUV459
+ECO893
+Wendy
+LUX935
+ECO755
+LUX935
+ECO632
+LUX305
+SUV603
+SUV355
+ECO755
+SUV603
+SUV459
+Rogue
+STA783
+Gildarts
+LUX305
+SUV603
+Lisanna
+SUV355
+LUX305
+LUX527
+SUV979
+Mavis
+ECO755
+SUV888
+STA199
+Makarov
+ECO794
+ECO414
+SUV459
+LUX527
+LUX338
+ECO414
+SUV603
+SUV459
+ECO893
+Makarov
+ECO794
+ECO414
+SUV459
+LUX527
+LUX338
+ECO414
+SUV603
+SUV459
+ECO893
+Cana
+LUX527
+Mirajane
+LUX935
+ECO414
+SUV204
+ECO414
+STA783
+Happy
+ECO755
+SUV204
+SUV459
+LUX338
+STA299
+LUX732
+Wendy
+LUX935
+ECO755
+LUX935
+ECO632
+LUX305
+SUV603
+SUV355
+ECO755
+SUV603
+SUV459
+Juvia
+ECO794
+SUV115
+Wendy
+LUX935
+ECO755
+LUX935
+ECO632
+LUX305
+SUV603
+SUV355
+ECO755
+SUV603
+SUV459
+Natsu
+SUV330
+Lily
+SUV459
+ECO989
+STA313
+Juvia
+ECO794
+SUV115
+Happy
+ECO755
+SUV204
+SUV459
+LUX338
+STA299
+LUX732
+Evergreen
+SUV888
+STA783
+STA199
+Mirajane
+LUX935
+ECO414
+SUV204
+ECO414
+STA783
+Elfman
+SUV330
+Lisanna
+SUV355
+LUX305
+LUX527
+SUV979
+Gajeel
+ECO632
+Customer: Makarov
+Total Days Rented: 7
+License Plate: ECO794
+Car Add Ons: 
+License Plate: ECO414
+Car Add Ons: 
+License Plate: SUV459
+Car Add Ons: 
+License Plate: LUX527
+Car Add Ons: 
+License Plate: LUX338
+Car Add Ons: 
+License Plate: ECO414
+Car Add Ons: 
+License Plate: SUV603
+Car Add Ons: 
+License Plate: SUV459
+Car Add Ons: 
+License Plate: ECO893
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Wendy
+Total Days Rented: 7
+License Plate: LUX935
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO755
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: LUX935
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO632
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, 
+License Plate: LUX305
+Car Add Ons: Radio - $10, Radio - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV603
+Car Add Ons: 
+License Plate: SUV355
+Car Add Ons: Radio - $10, Radio - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO755
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV603
+Car Add Ons: 
+License Plate: SUV459
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Gajeel
+Total Days Rented: 1
+License Plate: ECO632
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Day: 10
+Daily Profit: 0
+Daily Rentals: 18
+There are 9 cars available for rent. Here are your options!
+SUV355
+LUX527
+LUX305
+ECO794
+SUV603
+SUV459
+ECO755
+ECO632
+STA209
+The current rentals: 
+Bickslow
+ECO794
+LUX338
+Mavis
+ECO755
+SUV888
+STA199
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Rogue
+STA783
+Gildarts
+LUX305
+SUV603
+Lisanna
+SUV355
+LUX305
+LUX527
+SUV979
+Mavis
+ECO755
+SUV888
+STA199
+Makarov
+ECO414
+LUX527
+ECO414
+SUV459
+SUV115
+LUX935
+SUV204
+ECO989
+SUV115
+LUX338
+STA313
+SUV888
+STA783
+Makarov
+ECO414
+LUX527
+ECO414
+SUV459
+SUV115
+LUX935
+SUV204
+ECO989
+SUV115
+LUX338
+STA313
+SUV888
+STA783
+Cana
+LUX527
+Mirajane
+LUX935
+ECO414
+SUV204
+ECO414
+STA783
+Happy
+ECO755
+SUV204
+SUV459
+LUX338
+STA299
+LUX732
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Juvia
+ECO794
+SUV115
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Natsu
+SUV330
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+Juvia
+ECO794
+SUV115
+Happy
+ECO755
+SUV204
+SUV459
+LUX338
+STA299
+LUX732
+Evergreen
+SUV888
+STA783
+STA199
+Mirajane
+LUX935
+ECO414
+SUV204
+ECO414
+STA783
+Elfman
+SUV330
+STA313
+LUX338
+Lisanna
+SUV355
+LUX305
+LUX527
+SUV979
+Erza
+ECO893
+Laxus
+ECO989
+SUV115
+STA199
+Makarov
+ECO414
+LUX527
+ECO414
+SUV459
+SUV115
+LUX935
+SUV204
+ECO989
+SUV115
+LUX338
+STA313
+SUV888
+STA783
+Elfman
+SUV330
+STA313
+LUX338
+Makarov
+ECO414
+LUX527
+ECO414
+SUV459
+SUV115
+LUX935
+SUV204
+ECO989
+SUV115
+LUX338
+STA313
+SUV888
+STA783
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+Bickslow
+ECO794
+LUX338
+Elfman
+SUV330
+STA313
+LUX338
+Makarov
+ECO414
+LUX527
+ECO414
+SUV459
+SUV115
+LUX935
+SUV204
+ECO989
+SUV115
+LUX338
+STA313
+SUV888
+STA783
+Customer: Juvia
+Total Days Rented: 3
+License Plate: ECO794
+Car Add Ons: 
+License Plate: SUV115
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Mirajane
+Total Days Rented: 4
+License Plate: LUX935
+Car Add Ons: 
+License Plate: ECO414
+Car Add Ons: 
+License Plate: SUV204
+Car Add Ons: 
+License Plate: ECO414
+Car Add Ons: 
+License Plate: STA783
+Car Add Ons: GPS - $15, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Lisanna
+Total Days Rented: 4
+License Plate: SUV355
+Car Add Ons: 
+License Plate: LUX305
+Car Add Ons: 
+License Plate: LUX527
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV979
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 11
+Daily Profit: 0
+Daily Rentals: 21
+There are 7 cars available for rent. Here are your options!
+SUV355
+LUX935
+LUX527
+STA783
+SUV459
+SUV204
+ECO632
+The current rentals: 
+Bickslow
+ECO794
+LUX338
+Mavis
+ECO755
+SUV888
+STA199
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Rogue
+STA783
+Gildarts
+LUX305
+SUV603
+SUV603
+STA209
+ECO755
+Mavis
+ECO755
+SUV888
+STA199
+Makarov
+ECO414
+LUX527
+ECO414
+SUV459
+SUV115
+LUX935
+SUV204
+ECO989
+SUV115
+LUX338
+STA313
+SUV888
+STA783
+Makarov
+ECO414
+LUX527
+ECO414
+SUV459
+SUV115
+LUX935
+SUV204
+ECO989
+SUV115
+LUX338
+STA313
+SUV888
+STA783
+Cana
+LUX527
+Happy
+ECO755
+SUV204
+SUV459
+LUX338
+STA299
+LUX732
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Natsu
+SUV330
+ECO414
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+Juvia
+SUV115
+Happy
+ECO755
+SUV204
+SUV459
+LUX338
+STA299
+LUX732
+Evergreen
+SUV888
+STA783
+STA199
+Mirajane
+ECO414
+ECO414
+Elfman
+SUV330
+STA313
+LUX338
+LUX305
+Lisanna
+LUX305
+SUV979
+Erza
+ECO893
+Laxus
+ECO989
+SUV115
+STA199
+Makarov
+ECO414
+LUX527
+ECO414
+SUV459
+SUV115
+LUX935
+SUV204
+ECO989
+SUV115
+LUX338
+STA313
+SUV888
+STA783
+Elfman
+SUV330
+STA313
+LUX338
+LUX305
+Makarov
+ECO414
+LUX527
+ECO414
+SUV459
+SUV115
+LUX935
+SUV204
+ECO989
+SUV115
+LUX338
+STA313
+SUV888
+STA783
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+Bickslow
+ECO794
+LUX338
+Elfman
+SUV330
+STA313
+LUX338
+LUX305
+Makarov
+ECO414
+LUX527
+ECO414
+SUV459
+SUV115
+LUX935
+SUV204
+ECO989
+SUV115
+LUX338
+STA313
+SUV888
+STA783
+Elfman
+SUV330
+STA313
+LUX338
+LUX305
+Carla
+LUX527
+SUV979
+SUV115
+STA209
+Carla
+LUX527
+SUV979
+SUV115
+STA209
+Igneel
+SUV603
+LUX338
+ECO794
+Gildarts
+LUX305
+SUV603
+SUV603
+STA209
+ECO755
+Natsu
+SUV330
+ECO414
+Customer: Makarov
+Total Days Rented: 7
+License Plate: ECO414
+Car Add Ons: 
+License Plate: LUX527
+Car Add Ons: 
+License Plate: ECO414
+Car Add Ons: 
+License Plate: SUV459
+Car Add Ons: Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, GPS - $15, Radio - $10, 
+License Plate: SUV115
+Car Add Ons: 
+License Plate: LUX935
+Car Add Ons: 
+License Plate: SUV204
+Car Add Ons: 
+License Plate: ECO989
+Car Add Ons: 
+License Plate: SUV115
+Car Add Ons: 
+License Plate: LUX338
+Car Add Ons: 
+License Plate: STA313
+Car Add Ons: 
+License Plate: SUV888
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: STA783
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Natsu
+Total Days Rented: 1
+License Plate: SUV330
+Car Add Ons: 
+License Plate: ECO414
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Evergreen
+Total Days Rented: 3
+License Plate: SUV888
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: STA783
+Car Add Ons: 
+License Plate: STA199
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Bickslow
+Total Days Rented: 4
+License Plate: ECO794
+Car Add Ons: 
+License Plate: LUX338
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 12
+Daily Profit: 0
+Daily Rentals: 25
+There are 13 cars available for rent. Here are your options!
+SUV355
+LUX935
+LUX338
+STA199
+ECO794
+STA783
+SUV459
+SUV888
+ECO414
+STA313
+SUV204
+SUV115
+ECO632
+The current rentals: 
+Mavis
+ECO755
+SUV888
+STA199
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Rogue
+STA783
+Gildarts
+LUX305
+SUV603
+SUV603
+STA209
+ECO755
+Mavis
+ECO755
+SUV888
+STA199
+Makarov
+LUX527
+SUV459
+LUX935
+ECO989
+LUX338
+SUV888
+Cana
+LUX527
+Happy
+ECO755
+SUV204
+SUV459
+LUX338
+STA299
+LUX732
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+ECO989
+STA299
+SUV330
+Juvia
+SUV115
+Happy
+ECO755
+SUV204
+SUV459
+LUX338
+STA299
+LUX732
+Mirajane
+ECO414
+ECO414
+Elfman
+SUV330
+STA313
+LUX338
+LUX305
+Lisanna
+LUX305
+SUV979
+Erza
+ECO893
+Laxus
+ECO989
+SUV115
+STA199
+Makarov
+LUX527
+SUV459
+LUX935
+ECO989
+LUX338
+SUV888
+Elfman
+SUV330
+STA313
+LUX338
+LUX305
+Makarov
+LUX527
+SUV459
+LUX935
+ECO989
+LUX338
+SUV888
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+ECO989
+STA299
+SUV330
+Bickslow
+LUX338
+Elfman
+SUV330
+STA313
+LUX338
+LUX305
+Makarov
+LUX527
+SUV459
+LUX935
+ECO989
+LUX338
+SUV888
+Elfman
+SUV330
+STA313
+LUX338
+LUX305
+Carla
+LUX527
+SUV979
+SUV115
+STA209
+Carla
+LUX527
+SUV979
+SUV115
+STA209
+Igneel
+SUV603
+LUX338
+ECO794
+Gildarts
+LUX305
+SUV603
+SUV603
+STA209
+ECO755
+Natsu
+ECO414
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+ECO989
+STA299
+SUV330
+Lucy
+LUX527
+Customer: Gildarts
+Total Days Rented: 3
+License Plate: LUX305
+Car Add Ons: 
+License Plate: SUV603
+Car Add Ons: Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, GPS - $15, Radio - $10, 
+License Plate: SUV603
+Car Add Ons: Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, GPS - $15, Radio - $10, 
+License Plate: STA209
+Car Add Ons: 
+License Plate: ECO755
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Radio - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Radio - $10, 
+The total cost for the rental: 0
+Customer: Happy
+Total Days Rented: 7
+License Plate: ECO755
+Car Add Ons: 
+License Plate: SUV204
+Car Add Ons: 
+License Plate: SUV459
+Car Add Ons: Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, GPS - $15, Radio - $10, 
+License Plate: LUX338
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: 
+License Plate: LUX732
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Elfman
+Total Days Rented: 4
+License Plate: SUV330
+Car Add Ons: 
+License Plate: STA313
+Car Add Ons: 
+License Plate: LUX338
+Car Add Ons: 
+License Plate: LUX305
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Erza
+Total Days Rented: 2
+License Plate: ECO893
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Carla
+Total Days Rented: 3
+License Plate: LUX527
+Car Add Ons: 
+License Plate: SUV979
+Car Add Ons: 
+License Plate: SUV115
+Car Add Ons: GPS - $15, 
+License Plate: STA209
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 13
+Daily Profit: 0
+Daily Rentals: 30
+There are 8 cars available for rent. Here are your options!
+LUX732
+SUV330
+LUX338
+SUV979
+STA199
+STA313
+SUV204
+STA209
+The current rentals: 
+Mavis
+ECO755
+SUV888
+STA199
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Rogue
+STA783
+ECO893
+Mavis
+ECO755
+SUV888
+STA199
+Makarov
+LUX527
+SUV459
+LUX935
+ECO989
+LUX338
+SUV888
+Cana
+LUX527
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+ECO989
+STA299
+SUV330
+ECO794
+STA783
+ECO414
+Juvia
+SUV115
+Happy
+SUV204
+LUX338
+LUX732
+LUX935
+STA783
+STA299
+Mirajane
+ECO414
+ECO414
+Lisanna
+LUX305
+SUV979
+Laxus
+ECO989
+SUV115
+STA199
+Makarov
+LUX527
+SUV459
+LUX935
+ECO989
+LUX338
+SUV888
+Elfman
+STA313
+LUX305
+SUV115
+Makarov
+LUX527
+SUV459
+LUX935
+ECO989
+LUX338
+SUV888
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+ECO989
+STA299
+SUV330
+ECO794
+STA783
+ECO414
+Bickslow
+LUX338
+Elfman
+STA313
+LUX305
+SUV115
+Makarov
+LUX527
+SUV459
+LUX935
+ECO989
+LUX338
+SUV888
+Elfman
+STA313
+LUX305
+SUV115
+Carla
+SUV979
+STA209
+SUV603
+LUX305
+Igneel
+SUV603
+LUX338
+ECO794
+Gildarts
+SUV603
+STA209
+LUX935
+LUX527
+SUV115
+SUV888
+Natsu
+ECO414
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+ECO989
+STA299
+SUV330
+ECO794
+STA783
+ECO414
+Lucy
+LUX527
+SUV459
+Lucy
+LUX527
+SUV459
+Gildarts
+SUV603
+STA209
+LUX935
+LUX527
+SUV115
+SUV888
+Carla
+SUV979
+STA209
+SUV603
+LUX305
+Happy
+SUV204
+LUX338
+LUX732
+LUX935
+STA783
+STA299
+Freed
+ECO632
+Rogue
+STA783
+ECO893
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+ECO989
+STA299
+SUV330
+ECO794
+STA783
+ECO414
+Gildarts
+SUV603
+STA209
+LUX935
+LUX527
+SUV115
+SUV888
+Elfman
+STA313
+LUX305
+SUV115
+Sting
+ECO755
+ECO755
+ECO794
+Gray
+SUV355
+Customer: Lucy
+Total Days Rented: 1
+License Plate: LUX527
+Car Add Ons: 
+License Plate: SUV459
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 14
+Daily Profit: 0
+Daily Rentals: 31
+There are 7 cars available for rent. Here are your options!
+LUX732
+LUX527
+STA199
+SUV459
+STA313
+SUV204
+STA209
+The current rentals: 
+Mavis
+ECO755
+SUV888
+STA199
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Rogue
+STA783
+ECO893
+SUV603
+SUV979
+Mavis
+ECO755
+SUV888
+STA199
+Makarov
+LUX527
+SUV459
+LUX935
+ECO989
+LUX338
+SUV888
+LUX935
+ECO755
+ECO989
+Cana
+LUX527
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+ECO989
+STA299
+SUV330
+ECO794
+STA783
+ECO414
+STA299
+STA783
+SUV330
+Juvia
+SUV115
+Happy
+SUV204
+LUX338
+LUX732
+LUX935
+STA783
+STA299
+Mirajane
+ECO414
+ECO414
+Lisanna
+LUX305
+SUV979
+Laxus
+ECO989
+SUV115
+STA199
+Makarov
+LUX527
+SUV459
+LUX935
+ECO989
+LUX338
+SUV888
+LUX935
+ECO755
+ECO989
+Elfman
+STA313
+LUX305
+SUV115
+Makarov
+LUX527
+SUV459
+LUX935
+ECO989
+LUX338
+SUV888
+LUX935
+ECO755
+ECO989
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+ECO989
+STA299
+SUV330
+ECO794
+STA783
+ECO414
+STA299
+STA783
+SUV330
+Bickslow
+LUX338
+Elfman
+STA313
+LUX305
+SUV115
+Makarov
+LUX527
+SUV459
+LUX935
+ECO989
+LUX338
+SUV888
+LUX935
+ECO755
+ECO989
+Elfman
+STA313
+LUX305
+SUV115
+Carla
+SUV979
+STA209
+SUV603
+LUX305
+Igneel
+SUV603
+LUX338
+ECO794
+Gildarts
+SUV603
+STA209
+LUX935
+LUX527
+SUV115
+SUV888
+Natsu
+ECO414
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+ECO989
+STA299
+SUV330
+ECO794
+STA783
+ECO414
+STA299
+STA783
+SUV330
+Lucy
+SUV459
+Gildarts
+SUV603
+STA209
+LUX935
+LUX527
+SUV115
+SUV888
+Carla
+SUV979
+STA209
+SUV603
+LUX305
+Happy
+SUV204
+LUX338
+LUX732
+LUX935
+STA783
+STA299
+Freed
+ECO632
+Rogue
+STA783
+ECO893
+SUV603
+SUV979
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+ECO989
+STA299
+SUV330
+ECO794
+STA783
+ECO414
+STA299
+STA783
+SUV330
+Gildarts
+SUV603
+STA209
+LUX935
+LUX527
+SUV115
+SUV888
+Elfman
+STA313
+LUX305
+SUV115
+Sting
+ECO755
+ECO755
+ECO794
+LUX338
+SUV330
+Gray
+SUV355
+STA299
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+ECO989
+STA299
+SUV330
+ECO794
+STA783
+ECO414
+STA299
+STA783
+SUV330
+Sting
+ECO755
+ECO755
+ECO794
+LUX338
+SUV330
+Rogue
+STA783
+ECO893
+SUV603
+SUV979
+Makarov
+LUX527
+SUV459
+LUX935
+ECO989
+LUX338
+SUV888
+LUX935
+ECO755
+ECO989
+Gray
+SUV355
+STA299
+Customer: Elfman
+Total Days Rented: 5
+License Plate: STA313
+Car Add Ons: 
+License Plate: LUX305
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV115
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Igneel
+Total Days Rented: 4
+License Plate: SUV603
+Car Add Ons: 
+License Plate: LUX338
+Car Add Ons: 
+License Plate: ECO794
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Gildarts
+Total Days Rented: 5
+License Plate: SUV603
+Car Add Ons: 
+License Plate: STA209
+Car Add Ons: 
+License Plate: LUX935
+Car Add Ons: 
+License Plate: LUX527
+Car Add Ons: 
+License Plate: SUV115
+Car Add Ons: 
+License Plate: SUV888
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 15
+Daily Profit: 0
+Daily Rentals: 34
+There are 11 cars available for rent. Here are your options!
+LUX732
+LUX935
+LUX527
+LUX338
+LUX305
+STA199
+ECO794
+SUV603
+SUV888
+SUV115
+STA209
+The current rentals: 
+Mavis
+ECO755
+SUV888
+STA199
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Rogue
+STA783
+ECO893
+SUV603
+SUV979
+Mavis
+ECO755
+SUV888
+STA199
+Makarov
+LUX527
+SUV459
+LUX935
+ECO989
+LUX338
+SUV888
+LUX935
+ECO755
+ECO989
+Cana
+LUX527
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+ECO989
+STA299
+SUV330
+ECO794
+STA783
+ECO414
+STA299
+STA783
+SUV330
+Juvia
+SUV115
+Happy
+SUV204
+LUX338
+LUX732
+LUX935
+STA783
+STA299
+Mirajane
+ECO414
+ECO414
+STA313
+ECO755
+ECO893
+Lisanna
+LUX305
+SUV979
+Laxus
+ECO989
+SUV115
+STA199
+Makarov
+LUX527
+SUV459
+LUX935
+ECO989
+LUX338
+SUV888
+LUX935
+ECO755
+ECO989
+Makarov
+LUX527
+SUV459
+LUX935
+ECO989
+LUX338
+SUV888
+LUX935
+ECO755
+ECO989
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+ECO989
+STA299
+SUV330
+ECO794
+STA783
+ECO414
+STA299
+STA783
+SUV330
+Bickslow
+LUX338
+ECO989
+ECO414
+Elfman
+LUX305
+Makarov
+LUX527
+SUV459
+LUX935
+ECO989
+LUX338
+SUV888
+LUX935
+ECO755
+ECO989
+Elfman
+LUX305
+Carla
+SUV979
+STA209
+SUV603
+LUX305
+Natsu
+ECO414
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+ECO989
+STA299
+SUV330
+ECO794
+STA783
+ECO414
+STA299
+STA783
+SUV330
+Lucy
+SUV459
+Gildarts
+STA209
+LUX527
+SUV888
+Carla
+SUV979
+STA209
+SUV603
+LUX305
+Happy
+SUV204
+LUX338
+LUX732
+LUX935
+STA783
+STA299
+Freed
+ECO632
+Rogue
+STA783
+ECO893
+SUV603
+SUV979
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+ECO989
+STA299
+SUV330
+ECO794
+STA783
+ECO414
+STA299
+STA783
+SUV330
+Gildarts
+STA209
+LUX527
+SUV888
+Elfman
+LUX305
+Sting
+ECO755
+ECO755
+ECO794
+LUX338
+SUV330
+Gray
+SUV355
+STA299
+Lily
+SUV459
+ECO989
+STA313
+SUV330
+ECO414
+STA313
+ECO989
+STA299
+SUV330
+ECO794
+STA783
+ECO414
+STA299
+STA783
+SUV330
+Sting
+ECO755
+ECO755
+ECO794
+LUX338
+SUV330
+Rogue
+STA783
+ECO893
+SUV603
+SUV979
+Makarov
+LUX527
+SUV459
+LUX935
+ECO989
+LUX338
+SUV888
+LUX935
+ECO755
+ECO989
+Gray
+SUV355
+STA299
+Igneel
+LUX338
+SUV204
+SUV459
+Bickslow
+LUX338
+ECO989
+ECO414
+Mirajane
+ECO414
+ECO414
+STA313
+ECO755
+ECO893
+Gajeel
+ECO893
+Customer: Makarov
+Total Days Rented: 7
+License Plate: LUX527
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV459
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: LUX935
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO989
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: LUX338
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV888
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: LUX935
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO755
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO989
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Carla
+Total Days Rented: 5
+License Plate: SUV979
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: STA209
+Car Add Ons: 
+License Plate: SUV603
+Car Add Ons: 
+License Plate: LUX305
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Lily
+Total Days Rented: 7
+License Plate: SUV459
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO989
+Car Add Ons: 
+License Plate: STA313
+Car Add Ons: 
+License Plate: SUV330
+Car Add Ons: 
+License Plate: ECO414
+Car Add Ons: 
+License Plate: STA313
+Car Add Ons: 
+License Plate: ECO989
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: 
+License Plate: SUV330
+Car Add Ons: 
+License Plate: ECO794
+Car Add Ons: 
+License Plate: STA783
+Car Add Ons: 
+License Plate: ECO414
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: 
+License Plate: STA783
+Car Add Ons: 
+License Plate: SUV330
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Freed
+Total Days Rented: 3
+License Plate: ECO632
+Car Add Ons: Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, GPS - $15, Radio - $10, 
+The total cost for the rental: 0
+Customer: Gray
+Total Days Rented: 3
+License Plate: SUV355
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Rogue
+Total Days Rented: 5
+License Plate: STA783
+Car Add Ons: 
+License Plate: ECO893
+Car Add Ons: 
+License Plate: SUV603
+Car Add Ons: 
+License Plate: SUV979
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 16
+Daily Profit: 0
+Daily Rentals: 40
+There are 15 cars available for rent. Here are your options!
+LUX732
+SUV355
+LUX527
+LUX338
+LUX305
+SUV979
+STA199
+ECO893
+STA299
+SUV888
+ECO755
+ECO414
+SUV115
+ECO989
+STA209
+The current rentals: 
+Mavis
+ECO755
+SUV888
+STA199
+LUX935
+STA783
+ECO794
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Mavis
+ECO755
+SUV888
+STA199
+LUX935
+STA783
+ECO794
+Cana
+LUX527
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Juvia
+SUV115
+STA313
+Happy
+SUV204
+LUX338
+LUX732
+LUX935
+STA783
+STA299
+Mirajane
+ECO414
+ECO414
+STA313
+ECO755
+ECO893
+Lisanna
+LUX305
+SUV979
+Laxus
+ECO989
+SUV115
+STA199
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Lily
+ECO989
+SUV330
+STA313
+STA299
+ECO794
+ECO414
+STA783
+Bickslow
+LUX338
+ECO989
+ECO414
+Elfman
+LUX305
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Elfman
+LUX305
+Natsu
+ECO414
+Lily
+ECO989
+SUV330
+STA313
+STA299
+ECO794
+ECO414
+STA783
+Lucy
+SUV459
+Gildarts
+STA209
+LUX527
+SUV888
+SUV330
+ECO632
+SUV330
+Carla
+STA209
+LUX305
+Happy
+SUV204
+LUX338
+LUX732
+LUX935
+STA783
+STA299
+Rogue
+ECO893
+SUV979
+Lily
+ECO989
+SUV330
+STA313
+STA299
+ECO794
+ECO414
+STA783
+Gildarts
+STA209
+LUX527
+SUV888
+SUV330
+ECO632
+SUV330
+Elfman
+LUX305
+Sting
+ECO755
+ECO755
+ECO794
+LUX338
+SUV330
+Lily
+ECO989
+SUV330
+STA313
+STA299
+ECO794
+ECO414
+STA783
+Sting
+ECO755
+ECO755
+ECO794
+LUX338
+SUV330
+Rogue
+ECO893
+SUV979
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Gray
+STA299
+Igneel
+LUX338
+SUV204
+SUV459
+SUV603
+Bickslow
+LUX338
+ECO989
+ECO414
+Mirajane
+ECO414
+ECO414
+STA313
+ECO755
+ECO893
+Gajeel
+ECO893
+SUV459
+Mavis
+ECO755
+SUV888
+STA199
+LUX935
+STA783
+ECO794
+Igneel
+LUX338
+SUV204
+SUV459
+SUV603
+Gajeel
+ECO893
+SUV459
+Gildarts
+STA209
+LUX527
+SUV888
+SUV330
+ECO632
+SUV330
+Juvia
+SUV115
+STA313
+Customer: Happy
+Total Days Rented: 7
+License Plate: SUV204
+Car Add Ons: 
+License Plate: LUX338
+Car Add Ons: 
+License Plate: LUX732
+Car Add Ons: 
+License Plate: LUX935
+Car Add Ons: 
+License Plate: STA783
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Sting
+Total Days Rented: 5
+License Plate: ECO755
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO755
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO794
+Car Add Ons: 
+License Plate: LUX338
+Car Add Ons: 
+License Plate: SUV330
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Bickslow
+Total Days Rented: 4
+License Plate: LUX338
+Car Add Ons: 
+License Plate: ECO989
+Car Add Ons: 
+License Plate: ECO414
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 17
+Daily Profit: 0
+Daily Rentals: 43
+There are 14 cars available for rent. Here are your options!
+LUX732
+LUX527
+LUX338
+SUV979
+STA199
+ECO893
+STA783
+SUV888
+ECO755
+ECO414
+SUV204
+SUV115
+ECO989
+STA209
+The current rentals: 
+Mavis
+ECO755
+SUV888
+STA199
+LUX935
+STA783
+ECO794
+ECO794
+STA299
+LUX935
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Mavis
+ECO755
+SUV888
+STA199
+LUX935
+STA783
+ECO794
+ECO794
+STA299
+LUX935
+Cana
+LUX527
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Juvia
+SUV115
+STA313
+Mirajane
+ECO414
+ECO414
+STA313
+ECO755
+ECO893
+Lisanna
+LUX305
+SUV979
+Laxus
+ECO989
+SUV115
+STA199
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Lily
+ECO989
+SUV330
+STA313
+STA299
+ECO794
+ECO414
+STA783
+STA299
+SUV330
+SUV330
+Elfman
+LUX305
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Elfman
+LUX305
+Natsu
+ECO414
+Lily
+ECO989
+SUV330
+STA313
+STA299
+ECO794
+ECO414
+STA783
+STA299
+SUV330
+SUV330
+Lucy
+SUV459
+Gildarts
+STA209
+LUX527
+SUV888
+SUV330
+ECO632
+SUV330
+SUV603
+LUX305
+STA313
+SUV459
+Carla
+STA209
+LUX305
+Happy
+LUX338
+LUX935
+STA299
+Rogue
+ECO893
+SUV979
+Lily
+ECO989
+SUV330
+STA313
+STA299
+ECO794
+ECO414
+STA783
+STA299
+SUV330
+SUV330
+Gildarts
+STA209
+LUX527
+SUV888
+SUV330
+ECO632
+SUV330
+SUV603
+LUX305
+STA313
+SUV459
+Elfman
+LUX305
+Lily
+ECO989
+SUV330
+STA313
+STA299
+ECO794
+ECO414
+STA783
+STA299
+SUV330
+SUV330
+Sting
+ECO755
+LUX338
+Rogue
+ECO893
+SUV979
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Gray
+STA299
+Igneel
+LUX338
+SUV204
+SUV459
+SUV603
+Bickslow
+ECO989
+Mirajane
+ECO414
+ECO414
+STA313
+ECO755
+ECO893
+Gajeel
+ECO893
+SUV459
+SUV355
+Mavis
+ECO755
+SUV888
+STA199
+LUX935
+STA783
+ECO794
+ECO794
+STA299
+LUX935
+Igneel
+LUX338
+SUV204
+SUV459
+SUV603
+Gajeel
+ECO893
+SUV459
+SUV355
+Gildarts
+STA209
+LUX527
+SUV888
+SUV330
+ECO632
+SUV330
+SUV603
+LUX305
+STA313
+SUV459
+Juvia
+SUV115
+STA313
+Mavis
+ECO755
+SUV888
+STA199
+LUX935
+STA783
+ECO794
+ECO794
+STA299
+LUX935
+Lily
+ECO989
+SUV330
+STA313
+STA299
+ECO794
+ECO414
+STA783
+STA299
+SUV330
+SUV330
+Gildarts
+STA209
+LUX527
+SUV888
+SUV330
+ECO632
+SUV330
+SUV603
+LUX305
+STA313
+SUV459
+Gildarts
+STA209
+LUX527
+SUV888
+SUV330
+ECO632
+SUV330
+SUV603
+LUX305
+STA313
+SUV459
+Gajeel
+ECO893
+SUV459
+SUV355
+Customer: Juvia
+Total Days Rented: 3
+License Plate: SUV115
+Car Add Ons: 
+License Plate: STA313
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Laxus
+Total Days Rented: 7
+License Plate: ECO989
+Car Add Ons: 
+License Plate: SUV115
+Car Add Ons: 
+License Plate: STA199
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Mirajane
+Total Days Rented: 3
+License Plate: ECO414
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO414
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: STA313
+Car Add Ons: 
+License Plate: ECO755
+Car Add Ons: 
+License Plate: ECO893
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Igneel
+Total Days Rented: 4
+License Plate: LUX338
+Car Add Ons: 
+License Plate: SUV204
+Car Add Ons: 
+License Plate: SUV459
+Car Add Ons: 
+License Plate: SUV603
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Gildarts
+Total Days Rented: 5
+License Plate: STA209
+Car Add Ons: 
+License Plate: LUX527
+Car Add Ons: 
+License Plate: SUV888
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV330
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+License Plate: SUV330
+Car Add Ons: 
+License Plate: SUV603
+Car Add Ons: 
+License Plate: LUX305
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: STA313
+Car Add Ons: 
+License Plate: SUV459
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 18
+Daily Profit: 0
+Daily Rentals: 48
+There are 12 cars available for rent. Here are your options!
+LUX732
+LUX338
+ECO893
+STA783
+SUV459
+ECO755
+ECO414
+STA313
+SUV204
+ECO632
+ECO989
+STA209
+The current rentals: 
+Mavis
+ECO755
+SUV888
+STA199
+LUX935
+STA783
+ECO794
+ECO794
+STA299
+LUX935
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Mavis
+ECO755
+SUV888
+STA199
+LUX935
+STA783
+ECO794
+ECO794
+STA299
+LUX935
+Cana
+LUX527
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Lisanna
+LUX305
+SUV979
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Lily
+ECO989
+SUV330
+STA313
+STA299
+ECO794
+ECO414
+STA783
+STA299
+SUV330
+SUV330
+Elfman
+LUX305
+SUV603
+SUV115
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Elfman
+LUX305
+SUV603
+SUV115
+Natsu
+ECO414
+Lily
+ECO989
+SUV330
+STA313
+STA299
+ECO794
+ECO414
+STA783
+STA299
+SUV330
+SUV330
+Lucy
+SUV459
+Carla
+STA209
+LUX305
+Happy
+LUX338
+LUX935
+STA299
+Rogue
+ECO893
+SUV979
+SUV888
+SUV979
+STA199
+LUX305
+Lily
+ECO989
+SUV330
+STA313
+STA299
+ECO794
+ECO414
+STA783
+STA299
+SUV330
+SUV330
+Gildarts
+LUX527
+SUV330
+SUV330
+LUX305
+SUV459
+Elfman
+LUX305
+SUV603
+SUV115
+Lily
+ECO989
+SUV330
+STA313
+STA299
+ECO794
+ECO414
+STA783
+STA299
+SUV330
+SUV330
+Sting
+ECO755
+LUX338
+Rogue
+ECO893
+SUV979
+SUV888
+SUV979
+STA199
+LUX305
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Gray
+STA299
+Bickslow
+ECO989
+Mirajane
+ECO414
+ECO755
+Gajeel
+ECO893
+SUV459
+SUV355
+LUX527
+Mavis
+ECO755
+SUV888
+STA199
+LUX935
+STA783
+ECO794
+ECO794
+STA299
+LUX935
+Igneel
+SUV204
+SUV603
+Gajeel
+ECO893
+SUV459
+SUV355
+LUX527
+Gildarts
+LUX527
+SUV330
+SUV330
+LUX305
+SUV459
+Juvia
+STA313
+Mavis
+ECO755
+SUV888
+STA199
+LUX935
+STA783
+ECO794
+ECO794
+STA299
+LUX935
+Lily
+ECO989
+SUV330
+STA313
+STA299
+ECO794
+ECO414
+STA783
+STA299
+SUV330
+SUV330
+Gildarts
+LUX527
+SUV330
+SUV330
+LUX305
+SUV459
+Gildarts
+LUX527
+SUV330
+SUV330
+LUX305
+SUV459
+Gajeel
+ECO893
+SUV459
+SUV355
+LUX527
+Rogue
+ECO893
+SUV979
+SUV888
+SUV979
+STA199
+LUX305
+Evergreen
+STA783
+SUV330
+Elfman
+LUX305
+SUV603
+SUV115
+Rogue
+ECO893
+SUV979
+SUV888
+SUV979
+STA199
+LUX305
+Gajeel
+ECO893
+SUV459
+SUV355
+LUX527
+Customer: Lily
+Total Days Rented: 7
+License Plate: ECO989
+Car Add Ons: 
+License Plate: SUV330
+Car Add Ons: 
+License Plate: STA313
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, 
+License Plate: ECO794
+Car Add Ons: 
+License Plate: ECO414
+Car Add Ons: 
+License Plate: STA783
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, 
+License Plate: SUV330
+Car Add Ons: 
+License Plate: SUV330
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Elfman
+Total Days Rented: 3
+License Plate: LUX305
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV603
+Car Add Ons: 
+License Plate: SUV115
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Gajeel
+Total Days Rented: 1
+License Plate: ECO893
+Car Add Ons: 
+License Plate: SUV459
+Car Add Ons: 
+License Plate: SUV355
+Car Add Ons: 
+License Plate: LUX527
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Mavis
+Total Days Rented: 7
+License Plate: ECO755
+Car Add Ons: 
+License Plate: SUV888
+Car Add Ons: 
+License Plate: STA199
+Car Add Ons: 
+License Plate: LUX935
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, 
+License Plate: STA783
+Car Add Ons: 
+License Plate: ECO794
+Car Add Ons: 
+License Plate: ECO794
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, 
+License Plate: LUX935
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, 
+The total cost for the rental: 0
+Customer: Rogue
+Total Days Rented: 3
+License Plate: ECO893
+Car Add Ons: 
+License Plate: SUV979
+Car Add Ons: 
+License Plate: SUV888
+Car Add Ons: 
+License Plate: SUV979
+Car Add Ons: 
+License Plate: STA199
+Car Add Ons: 
+License Plate: LUX305
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 19
+Daily Profit: 0
+Daily Rentals: 53
+There are 16 cars available for rent. Here are your options!
+SUV355
+LUX935
+SUV330
+LUX527
+LUX338
+STA199
+ECO893
+ECO794
+STA299
+SUV603
+SUV459
+ECO755
+ECO414
+SUV204
+SUV115
+STA209
+The current rentals: 
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+Cana
+LUX527
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Lisanna
+LUX305
+SUV979
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Elfman
+SUV603
+SUV888
+LUX305
+SUV979
+Natsu
+ECO414
+Lily
+SUV330
+STA299
+ECO414
+STA299
+SUV330
+Lucy
+SUV459
+ECO989
+Carla
+STA209
+LUX305
+Happy
+LUX338
+LUX935
+STA299
+Lily
+SUV330
+STA299
+ECO414
+STA299
+SUV330
+Gildarts
+LUX527
+SUV330
+SUV330
+LUX305
+SUV459
+LUX732
+STA783
+Elfman
+SUV603
+SUV888
+LUX305
+SUV979
+Lily
+SUV330
+STA299
+ECO414
+STA299
+SUV330
+Sting
+ECO755
+LUX338
+Rogue
+SUV979
+SUV979
+LUX305
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Gray
+STA299
+Bickslow
+ECO989
+Mirajane
+ECO414
+ECO755
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+Igneel
+SUV204
+SUV603
+Gajeel
+SUV459
+LUX527
+Gildarts
+LUX527
+SUV330
+SUV330
+LUX305
+SUV459
+LUX732
+STA783
+Juvia
+STA313
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+Lily
+SUV330
+STA299
+ECO414
+STA299
+SUV330
+Gildarts
+LUX527
+SUV330
+SUV330
+LUX305
+SUV459
+LUX732
+STA783
+Gildarts
+LUX527
+SUV330
+SUV330
+LUX305
+SUV459
+LUX732
+STA783
+Gajeel
+SUV459
+LUX527
+Rogue
+SUV979
+SUV979
+LUX305
+Evergreen
+STA783
+SUV330
+STA313
+ECO632
+LUX732
+Elfman
+SUV603
+SUV888
+LUX305
+SUV979
+Rogue
+SUV979
+SUV979
+LUX305
+Gajeel
+SUV459
+LUX527
+Freed
+LUX305
+SUV888
+Elfman
+SUV603
+SUV888
+LUX305
+SUV979
+Evergreen
+STA783
+SUV330
+STA313
+ECO632
+LUX732
+Gildarts
+LUX527
+SUV330
+SUV330
+LUX305
+SUV459
+LUX732
+STA783
+Lucy
+SUV459
+ECO989
+Customer: Lucy
+Total Days Rented: 1
+License Plate: SUV459
+Car Add Ons: 
+License Plate: ECO989
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Gildarts
+Total Days Rented: 4
+License Plate: LUX527
+Car Add Ons: 
+License Plate: SUV330
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV330
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: LUX305
+Car Add Ons: 
+License Plate: SUV459
+Car Add Ons: 
+License Plate: LUX732
+Car Add Ons: 
+License Plate: STA783
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Elfman
+Total Days Rented: 4
+License Plate: SUV603
+Car Add Ons: 
+License Plate: SUV888
+Car Add Ons: 
+License Plate: LUX305
+Car Add Ons: 
+License Plate: SUV979
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 20
+Daily Profit: 0
+Daily Rentals: 56
+There are 14 cars available for rent. Here are your options!
+LUX732
+SUV355
+LUX527
+LUX305
+SUV979
+ECO893
+ECO794
+STA299
+SUV603
+SUV459
+SUV888
+ECO414
+SUV204
+ECO989
+The current rentals: 
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+Cana
+LUX527
+SUV330
+LUX338
+SUV330
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Lisanna
+LUX305
+SUV979
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Natsu
+ECO414
+Lily
+SUV330
+STA299
+ECO414
+STA299
+SUV330
+Carla
+STA209
+LUX305
+Happy
+LUX338
+LUX935
+STA299
+Lily
+SUV330
+STA299
+ECO414
+STA299
+SUV330
+Elfman
+SUV888
+SUV979
+SUV115
+LUX935
+STA199
+Lily
+SUV330
+STA299
+ECO414
+STA299
+SUV330
+Sting
+ECO755
+LUX338
+ECO755
+SUV115
+ECO632
+Rogue
+SUV979
+SUV979
+LUX305
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Gray
+STA299
+Bickslow
+ECO989
+Mirajane
+ECO414
+ECO755
+LUX935
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+Igneel
+SUV204
+SUV603
+Gajeel
+SUV459
+LUX527
+Gildarts
+SUV330
+LUX305
+LUX732
+Juvia
+STA313
+STA783
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+Lily
+SUV330
+STA299
+ECO414
+STA299
+SUV330
+Gildarts
+SUV330
+LUX305
+LUX732
+Gildarts
+SUV330
+LUX305
+LUX732
+Gajeel
+SUV459
+LUX527
+Rogue
+SUV979
+SUV979
+LUX305
+Evergreen
+STA783
+SUV330
+STA313
+ECO632
+LUX732
+Elfman
+SUV888
+SUV979
+SUV115
+LUX935
+STA199
+Rogue
+SUV979
+SUV979
+LUX305
+Gajeel
+SUV459
+LUX527
+Freed
+LUX305
+SUV888
+Elfman
+SUV888
+SUV979
+SUV115
+LUX935
+STA199
+Evergreen
+STA783
+SUV330
+STA313
+ECO632
+LUX732
+Gildarts
+SUV330
+LUX305
+LUX732
+Lucy
+ECO989
+STA209
+Juvia
+STA313
+STA783
+Mirajane
+ECO414
+ECO755
+LUX935
+Sting
+ECO755
+LUX338
+ECO755
+SUV115
+ECO632
+Cana
+LUX527
+SUV330
+LUX338
+SUV330
+Cana
+LUX527
+SUV330
+LUX338
+SUV330
+Elfman
+SUV888
+SUV979
+SUV115
+LUX935
+STA199
+Lucy
+ECO989
+STA209
+Customer: Juvia
+Total Days Rented: 1
+License Plate: STA313
+Car Add Ons: 
+License Plate: STA783
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Evergreen
+Total Days Rented: 3
+License Plate: STA783
+Car Add Ons: 
+License Plate: SUV330
+Car Add Ons: 
+License Plate: STA313
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+License Plate: LUX732
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Cana
+Total Days Rented: 3
+License Plate: LUX527
+Car Add Ons: 
+License Plate: SUV330
+Car Add Ons: 
+License Plate: LUX338
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, 
+License Plate: SUV330
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 21
+Daily Profit: 0
+Daily Rentals: 59
+There are 13 cars available for rent. Here are your options!
+LUX732
+SUV355
+LUX527
+LUX305
+SUV979
+ECO893
+ECO794
+STA299
+STA783
+SUV459
+SUV888
+ECO414
+STA313
+The current rentals: 
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Lisanna
+LUX305
+SUV979
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Natsu
+ECO414
+Lily
+SUV330
+STA299
+ECO414
+STA299
+SUV330
+ECO632
+LUX338
+SUV603
+Carla
+STA209
+LUX305
+Happy
+LUX338
+LUX935
+STA299
+Lily
+SUV330
+STA299
+ECO414
+STA299
+SUV330
+ECO632
+LUX338
+SUV603
+Elfman
+SUV888
+SUV979
+SUV115
+LUX935
+STA199
+ECO632
+Lily
+SUV330
+STA299
+ECO414
+STA299
+SUV330
+ECO632
+LUX338
+SUV603
+Sting
+ECO755
+LUX338
+ECO755
+SUV115
+ECO632
+Rogue
+SUV979
+SUV979
+LUX305
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Gray
+STA299
+ECO989
+Bickslow
+ECO989
+Mirajane
+ECO414
+ECO755
+LUX935
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+Igneel
+SUV204
+SUV603
+Gajeel
+SUV459
+LUX527
+Gildarts
+SUV330
+LUX305
+LUX732
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+Lily
+SUV330
+STA299
+ECO414
+STA299
+SUV330
+ECO632
+LUX338
+SUV603
+Gildarts
+SUV330
+LUX305
+LUX732
+Gildarts
+SUV330
+LUX305
+LUX732
+Gajeel
+SUV459
+LUX527
+Rogue
+SUV979
+SUV979
+LUX305
+Elfman
+SUV888
+SUV979
+SUV115
+LUX935
+STA199
+ECO632
+Rogue
+SUV979
+SUV979
+LUX305
+Gajeel
+SUV459
+LUX527
+Freed
+LUX305
+SUV888
+Elfman
+SUV888
+SUV979
+SUV115
+LUX935
+STA199
+ECO632
+Evergreen
+SUV330
+ECO632
+Gildarts
+SUV330
+LUX305
+LUX732
+Lucy
+ECO989
+STA209
+Juvia
+STA783
+Mirajane
+ECO414
+ECO755
+LUX935
+Sting
+ECO755
+LUX338
+ECO755
+SUV115
+ECO632
+Cana
+SUV330
+SUV330
+SUV330
+SUV204
+ECO755
+Cana
+SUV330
+SUV330
+SUV330
+SUV204
+ECO755
+Elfman
+SUV888
+SUV979
+SUV115
+LUX935
+STA199
+ECO632
+Lucy
+ECO989
+STA209
+Lily
+SUV330
+STA299
+ECO414
+STA299
+SUV330
+ECO632
+LUX338
+SUV603
+Cana
+SUV330
+SUV330
+SUV330
+SUV204
+ECO755
+Elfman
+SUV888
+SUV979
+SUV115
+LUX935
+STA199
+ECO632
+Gray
+STA299
+ECO989
+Customer: Freed
+Total Days Rented: 3
+License Plate: LUX305
+Car Add Ons: 
+License Plate: SUV888
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Lucy
+Total Days Rented: 3
+License Plate: ECO989
+Car Add Ons: 
+License Plate: STA209
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Mirajane
+Total Days Rented: 4
+License Plate: ECO414
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, GPS - $15, Car Seat - $10, 
+License Plate: ECO755
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, GPS - $15, Car Seat - $10, 
+License Plate: LUX935
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, GPS - $15, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Elfman
+Total Days Rented: 4
+License Plate: SUV888
+Car Add Ons: 
+License Plate: SUV979
+Car Add Ons: 
+License Plate: SUV115
+Car Add Ons: 
+License Plate: LUX935
+Car Add Ons: 
+License Plate: STA199
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 22
+Daily Profit: 0
+Daily Rentals: 63
+There are 16 cars available for rent. Here are your options!
+SUV355
+LUX305
+SUV979
+ECO893
+ECO794
+STA299
+STA783
+SUV459
+SUV888
+ECO755
+ECO414
+STA313
+SUV115
+ECO632
+ECO989
+STA209
+The current rentals: 
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+STA199
+LUX732
+LUX527
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Lisanna
+LUX305
+SUV979
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Natsu
+ECO414
+LUX935
+Lily
+SUV330
+STA299
+ECO414
+STA299
+SUV330
+ECO632
+LUX338
+SUV603
+Carla
+STA209
+LUX305
+Happy
+LUX338
+LUX935
+STA299
+Lily
+SUV330
+STA299
+ECO414
+STA299
+SUV330
+ECO632
+LUX338
+SUV603
+Lily
+SUV330
+STA299
+ECO414
+STA299
+SUV330
+ECO632
+LUX338
+SUV603
+Sting
+ECO755
+LUX338
+ECO755
+SUV115
+ECO632
+Rogue
+SUV979
+SUV979
+LUX305
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Gray
+STA299
+ECO989
+Bickslow
+ECO989
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+STA199
+LUX732
+LUX527
+Igneel
+SUV204
+SUV603
+Gajeel
+SUV459
+LUX527
+Gildarts
+SUV330
+LUX305
+LUX732
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+STA199
+LUX732
+LUX527
+Lily
+SUV330
+STA299
+ECO414
+STA299
+SUV330
+ECO632
+LUX338
+SUV603
+Gildarts
+SUV330
+LUX305
+LUX732
+Gildarts
+SUV330
+LUX305
+LUX732
+Gajeel
+SUV459
+LUX527
+Rogue
+SUV979
+SUV979
+LUX305
+Elfman
+SUV979
+LUX935
+ECO632
+Rogue
+SUV979
+SUV979
+LUX305
+Gajeel
+SUV459
+LUX527
+Elfman
+SUV979
+LUX935
+ECO632
+Evergreen
+SUV330
+ECO632
+Gildarts
+SUV330
+LUX305
+LUX732
+Juvia
+STA783
+Mirajane
+ECO755
+Sting
+ECO755
+LUX338
+ECO755
+SUV115
+ECO632
+Cana
+SUV330
+SUV330
+SUV330
+SUV204
+ECO755
+Cana
+SUV330
+SUV330
+SUV330
+SUV204
+ECO755
+Elfman
+SUV979
+LUX935
+ECO632
+Lucy
+STA209
+Lily
+SUV330
+STA299
+ECO414
+STA299
+SUV330
+ECO632
+LUX338
+SUV603
+Cana
+SUV330
+SUV330
+SUV330
+SUV204
+ECO755
+Elfman
+SUV979
+LUX935
+ECO632
+Gray
+STA299
+ECO989
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+STA199
+LUX732
+LUX527
+Natsu
+ECO414
+LUX935
+Customer: Lily
+Total Days Rented: 7
+License Plate: SUV330
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, 
+License Plate: ECO414
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, 
+License Plate: SUV330
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+License Plate: LUX338
+Car Add Ons: 
+License Plate: SUV603
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Sting
+Total Days Rented: 4
+License Plate: ECO755
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, GPS - $15, Car Seat - $10, 
+License Plate: LUX338
+Car Add Ons: 
+License Plate: ECO755
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, GPS - $15, Car Seat - $10, 
+License Plate: SUV115
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Cana
+Total Days Rented: 4
+License Plate: SUV330
+Car Add Ons: 
+License Plate: SUV330
+Car Add Ons: 
+License Plate: SUV330
+Car Add Ons: 
+License Plate: SUV204
+Car Add Ons: 
+License Plate: ECO755
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Gray
+Total Days Rented: 3
+License Plate: STA299
+Car Add Ons: GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, 
+License Plate: ECO989
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 23
+Daily Profit: 0
+Daily Rentals: 67
+There are 12 cars available for rent. Here are your options!
+SUV355
+SUV330
+LUX305
+ECO893
+ECO794
+STA783
+SUV603
+SUV459
+SUV888
+ECO755
+SUV115
+STA209
+The current rentals: 
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+STA199
+LUX732
+LUX527
+ECO989
+LUX732
+LUX338
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Lisanna
+LUX305
+SUV979
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Natsu
+ECO414
+LUX935
+Carla
+STA209
+LUX305
+SUV979
+STA199
+ECO414
+Happy
+LUX338
+LUX935
+STA299
+SUV204
+ECO989
+ECO632
+Lily
+STA299
+STA299
+ECO632
+SUV603
+Lily
+STA299
+STA299
+ECO632
+SUV603
+Rogue
+SUV979
+SUV979
+LUX305
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Bickslow
+ECO989
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+STA199
+LUX732
+LUX527
+ECO989
+LUX732
+LUX338
+Igneel
+SUV204
+SUV603
+Gajeel
+SUV459
+LUX527
+Gildarts
+SUV330
+LUX305
+LUX732
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+STA199
+LUX732
+LUX527
+ECO989
+LUX732
+LUX338
+Lily
+STA299
+STA299
+ECO632
+SUV603
+Gildarts
+SUV330
+LUX305
+LUX732
+Gildarts
+SUV330
+LUX305
+LUX732
+Gajeel
+SUV459
+LUX527
+Rogue
+SUV979
+SUV979
+LUX305
+Elfman
+SUV979
+LUX935
+ECO632
+SUV979
+Rogue
+SUV979
+SUV979
+LUX305
+Gajeel
+SUV459
+LUX527
+Elfman
+SUV979
+LUX935
+ECO632
+SUV979
+Evergreen
+SUV330
+ECO632
+Gildarts
+SUV330
+LUX305
+LUX732
+Juvia
+STA783
+Mirajane
+ECO755
+Sting
+LUX338
+SUV115
+ECO632
+ECO989
+STA199
+Cana
+SUV330
+SUV204
+STA313
+ECO632
+SUV204
+Elfman
+SUV979
+LUX935
+ECO632
+SUV979
+Lucy
+STA209
+Lily
+STA299
+STA299
+ECO632
+SUV603
+Cana
+SUV330
+SUV204
+STA313
+ECO632
+SUV204
+Elfman
+SUV979
+LUX935
+ECO632
+SUV979
+Gray
+ECO989
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+STA199
+LUX732
+LUX527
+ECO989
+LUX732
+LUX338
+Natsu
+ECO414
+LUX935
+Freed
+SUV888
+STA299
+SUV979
+ECO632
+Carla
+STA209
+LUX305
+SUV979
+STA199
+ECO414
+Sting
+LUX338
+SUV115
+ECO632
+ECO989
+STA199
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+STA199
+LUX732
+LUX527
+ECO989
+LUX732
+LUX338
+Elfman
+SUV979
+LUX935
+ECO632
+SUV979
+Cana
+SUV330
+SUV204
+STA313
+ECO632
+SUV204
+Cana
+SUV330
+SUV204
+STA313
+ECO632
+SUV204
+Happy
+LUX338
+LUX935
+STA299
+SUV204
+ECO989
+ECO632
+Erza
+LUX732
+Customer: Natsu
+Total Days Rented: 3
+License Plate: ECO414
+Car Add Ons: 
+License Plate: LUX935
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Elfman
+Total Days Rented: 5
+License Plate: SUV979
+Car Add Ons: 
+License Plate: LUX935
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+License Plate: SUV979
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Erza
+Total Days Rented: 1
+License Plate: LUX732
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, 
+The total cost for the rental: 0
+Day: 24
+Daily Profit: 0
+Daily Rentals: 70
+There are 16 cars available for rent. Here are your options!
+LUX732
+SUV355
+LUX935
+SUV330
+LUX305
+SUV979
+ECO893
+STA783
+SUV603
+SUV459
+SUV888
+ECO755
+ECO414
+SUV115
+ECO632
+STA209
+The current rentals: 
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+STA199
+LUX732
+LUX527
+ECO989
+LUX732
+LUX338
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Lisanna
+LUX305
+SUV979
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Carla
+STA209
+LUX305
+SUV979
+STA199
+ECO414
+Happy
+LUX338
+LUX935
+STA299
+SUV204
+ECO989
+ECO632
+Lily
+STA299
+STA299
+ECO632
+SUV603
+Lily
+STA299
+STA299
+ECO632
+SUV603
+Rogue
+SUV979
+SUV979
+LUX305
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Bickslow
+ECO989
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+STA199
+LUX732
+LUX527
+ECO989
+LUX732
+LUX338
+Igneel
+SUV204
+SUV603
+Gajeel
+SUV459
+LUX527
+Gildarts
+SUV330
+LUX305
+LUX732
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+STA199
+LUX732
+LUX527
+ECO989
+LUX732
+LUX338
+Lily
+STA299
+STA299
+ECO632
+SUV603
+Gildarts
+SUV330
+LUX305
+LUX732
+Gildarts
+SUV330
+LUX305
+LUX732
+Gajeel
+SUV459
+LUX527
+Rogue
+SUV979
+SUV979
+LUX305
+Rogue
+SUV979
+SUV979
+LUX305
+Gajeel
+SUV459
+LUX527
+Elfman
+LUX935
+SUV979
+Evergreen
+SUV330
+ECO632
+Gildarts
+SUV330
+LUX305
+LUX732
+Juvia
+STA783
+Mirajane
+ECO755
+Sting
+LUX338
+SUV115
+ECO632
+ECO989
+STA199
+Cana
+SUV330
+SUV204
+STA313
+ECO632
+SUV204
+Elfman
+LUX935
+SUV979
+Lucy
+STA209
+Lily
+STA299
+STA299
+ECO632
+SUV603
+Cana
+SUV330
+SUV204
+STA313
+ECO632
+SUV204
+Elfman
+LUX935
+SUV979
+Gray
+ECO989
+ECO794
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+STA199
+LUX732
+LUX527
+ECO989
+LUX732
+LUX338
+Natsu
+LUX935
+Freed
+SUV888
+STA299
+SUV979
+ECO632
+Carla
+STA209
+LUX305
+SUV979
+STA199
+ECO414
+Sting
+LUX338
+SUV115
+ECO632
+ECO989
+STA199
+Mavis
+SUV888
+LUX935
+ECO794
+STA299
+STA199
+LUX732
+LUX527
+ECO989
+LUX732
+LUX338
+Elfman
+LUX935
+SUV979
+Cana
+SUV330
+SUV204
+STA313
+ECO632
+SUV204
+Cana
+SUV330
+SUV204
+STA313
+ECO632
+SUV204
+Happy
+LUX338
+LUX935
+STA299
+SUV204
+ECO989
+ECO632
+Gray
+ECO989
+ECO794
+Customer: Mavis
+Total Days Rented: 7
+License Plate: SUV888
+Car Add Ons: 
+License Plate: LUX935
+Car Add Ons: 
+License Plate: ECO794
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: 
+License Plate: STA199
+Car Add Ons: 
+License Plate: LUX732
+Car Add Ons: 
+License Plate: LUX527
+Car Add Ons: GPS - $15, Radio - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO989
+Car Add Ons: 
+License Plate: LUX732
+Car Add Ons: 
+License Plate: LUX338
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Cana
+Total Days Rented: 5
+License Plate: SUV330
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, 
+License Plate: SUV204
+Car Add Ons: 
+License Plate: STA313
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+License Plate: SUV204
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Gray
+Total Days Rented: 1
+License Plate: ECO989
+Car Add Ons: 
+License Plate: ECO794
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Carla
+Total Days Rented: 3
+License Plate: STA209
+Car Add Ons: 
+License Plate: LUX305
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, 
+License Plate: SUV979
+Car Add Ons: 
+License Plate: STA199
+Car Add Ons: 
+License Plate: ECO414
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 25
+Daily Profit: 0
+Daily Rentals: 74
+There are 9 cars available for rent. Here are your options!
+LUX732
+LUX935
+SUV330
+SUV979
+ECO893
+SUV603
+STA313
+SUV204
+SUV115
+The current rentals: 
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Lisanna
+LUX305
+SUV979
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Happy
+LUX338
+LUX935
+STA299
+SUV204
+ECO989
+ECO632
+Lily
+STA299
+STA299
+ECO632
+SUV603
+ECO794
+ECO414
+ECO794
+Lily
+STA299
+STA299
+ECO632
+SUV603
+ECO794
+ECO414
+ECO794
+Rogue
+SUV979
+SUV979
+LUX305
+STA299
+SUV888
+STA199
+LUX305
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Bickslow
+ECO989
+SUV355
+STA783
+SUV459
+ECO632
+Mavis
+LUX935
+STA299
+LUX732
+ECO989
+LUX338
+ECO989
+ECO989
+ECO632
+Igneel
+SUV204
+SUV603
+Gajeel
+SUV459
+LUX527
+Gildarts
+SUV330
+LUX305
+LUX732
+Mavis
+LUX935
+STA299
+LUX732
+ECO989
+LUX338
+ECO989
+ECO989
+ECO632
+Lily
+STA299
+STA299
+ECO632
+SUV603
+ECO794
+ECO414
+ECO794
+Gildarts
+SUV330
+LUX305
+LUX732
+Gildarts
+SUV330
+LUX305
+LUX732
+Gajeel
+SUV459
+LUX527
+Rogue
+SUV979
+SUV979
+LUX305
+STA299
+SUV888
+STA199
+LUX305
+Rogue
+SUV979
+SUV979
+LUX305
+STA299
+SUV888
+STA199
+LUX305
+Gajeel
+SUV459
+LUX527
+Elfman
+LUX935
+SUV979
+STA209
+STA199
+STA299
+SUV459
+LUX338
+STA199
+Evergreen
+SUV330
+ECO632
+STA199
+LUX527
+ECO755
+Gildarts
+SUV330
+LUX305
+LUX732
+Juvia
+STA783
+LUX338
+Mirajane
+ECO755
+Sting
+LUX338
+SUV115
+ECO632
+ECO989
+STA199
+ECO632
+STA209
+Elfman
+LUX935
+SUV979
+STA209
+STA199
+STA299
+SUV459
+LUX338
+STA199
+Lucy
+STA209
+Lily
+STA299
+STA299
+ECO632
+SUV603
+ECO794
+ECO414
+ECO794
+Cana
+SUV204
+ECO632
+Elfman
+LUX935
+SUV979
+STA209
+STA199
+STA299
+SUV459
+LUX338
+STA199
+Mavis
+LUX935
+STA299
+LUX732
+ECO989
+LUX338
+ECO989
+ECO989
+ECO632
+Natsu
+LUX935
+STA299
+Freed
+SUV888
+STA299
+SUV979
+ECO632
+Carla
+LUX305
+STA199
+Sting
+LUX338
+SUV115
+ECO632
+ECO989
+STA199
+ECO632
+STA209
+Mavis
+LUX935
+STA299
+LUX732
+ECO989
+LUX338
+ECO989
+ECO989
+ECO632
+Elfman
+LUX935
+SUV979
+STA209
+STA199
+STA299
+SUV459
+LUX338
+STA199
+Cana
+SUV204
+ECO632
+Cana
+SUV204
+ECO632
+Happy
+LUX338
+LUX935
+STA299
+SUV204
+ECO989
+ECO632
+Gray
+ECO794
+Juvia
+STA783
+LUX338
+Laxus
+SUV115
+STA299
+ECO414
+ECO632
+Elfman
+LUX935
+SUV979
+STA209
+STA199
+STA299
+SUV459
+LUX338
+STA199
+Sting
+LUX338
+SUV115
+ECO632
+ECO989
+STA199
+ECO632
+STA209
+Mavis
+LUX935
+STA299
+LUX732
+ECO989
+LUX338
+ECO989
+ECO989
+ECO632
+Bickslow
+ECO989
+SUV355
+STA783
+SUV459
+ECO632
+Evergreen
+SUV330
+ECO632
+STA199
+LUX527
+ECO755
+Lily
+STA299
+STA299
+ECO632
+SUV603
+ECO794
+ECO414
+ECO794
+Elfman
+LUX935
+SUV979
+STA209
+STA199
+STA299
+SUV459
+LUX338
+STA199
+Elfman
+LUX935
+SUV979
+STA209
+STA199
+STA299
+SUV459
+LUX338
+STA199
+Rogue
+SUV979
+SUV979
+LUX305
+STA299
+SUV888
+STA199
+LUX305
+Rogue
+SUV979
+SUV979
+LUX305
+STA299
+SUV888
+STA199
+LUX305
+Bickslow
+ECO989
+SUV355
+STA783
+SUV459
+ECO632
+Natsu
+LUX935
+STA299
+Customer: Elfman
+Total Days Rented: 3
+License Plate: LUX935
+Car Add Ons: 
+License Plate: SUV979
+Car Add Ons: 
+License Plate: STA209
+Car Add Ons: 
+License Plate: STA199
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: 
+License Plate: SUV459
+Car Add Ons: GPS - $15, Radio - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, GPS - $15, Radio - $10, 
+License Plate: LUX338
+Car Add Ons: 
+License Plate: STA199
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Freed
+Total Days Rented: 3
+License Plate: SUV888
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: 
+License Plate: SUV979
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Juvia
+Total Days Rented: 2
+License Plate: STA783
+Car Add Ons: 
+License Plate: LUX338
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Rogue
+Total Days Rented: 4
+License Plate: SUV979
+Car Add Ons: 
+License Plate: SUV979
+Car Add Ons: 
+License Plate: LUX305
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, 
+License Plate: STA299
+Car Add Ons: 
+License Plate: SUV888
+Car Add Ons: 
+License Plate: STA199
+Car Add Ons: 
+License Plate: LUX305
+Car Add Ons: GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, 
+The total cost for the rental: 0
+Customer: Natsu
+Total Days Rented: 2
+License Plate: LUX935
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 26
+Daily Profit: 0
+Daily Rentals: 79
+There are 10 cars available for rent. Here are your options!
+SUV330
+LUX338
+SUV979
+STA783
+SUV603
+SUV459
+SUV888
+STA313
+SUV204
+SUV115
+The current rentals: 
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Lisanna
+LUX305
+SUV979
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Happy
+LUX338
+LUX935
+STA299
+SUV204
+ECO989
+ECO632
+Lily
+STA299
+STA299
+ECO632
+SUV603
+ECO794
+ECO414
+ECO794
+Lily
+STA299
+STA299
+ECO632
+SUV603
+ECO794
+ECO414
+ECO794
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Bickslow
+ECO989
+SUV355
+STA783
+SUV459
+ECO632
+Mavis
+LUX935
+STA299
+LUX732
+ECO989
+LUX338
+ECO989
+ECO989
+ECO632
+Igneel
+SUV204
+SUV603
+Gajeel
+SUV459
+LUX527
+SUV355
+Gildarts
+SUV330
+LUX305
+LUX732
+Mavis
+LUX935
+STA299
+LUX732
+ECO989
+LUX338
+ECO989
+ECO989
+ECO632
+Lily
+STA299
+STA299
+ECO632
+SUV603
+ECO794
+ECO414
+ECO794
+Gildarts
+SUV330
+LUX305
+LUX732
+Gildarts
+SUV330
+LUX305
+LUX732
+Gajeel
+SUV459
+LUX527
+SUV355
+Rogue
+SUV979
+STA299
+STA199
+Rogue
+SUV979
+STA299
+STA199
+Gajeel
+SUV459
+LUX527
+SUV355
+Evergreen
+SUV330
+ECO632
+STA199
+LUX527
+ECO755
+Gildarts
+SUV330
+LUX305
+LUX732
+Mirajane
+ECO755
+LUX935
+ECO893
+Sting
+LUX338
+SUV115
+ECO632
+ECO989
+STA199
+ECO632
+STA209
+Elfman
+SUV979
+STA199
+SUV459
+STA199
+LUX935
+STA209
+Lucy
+STA209
+Lily
+STA299
+STA299
+ECO632
+SUV603
+ECO794
+ECO414
+ECO794
+Cana
+SUV204
+ECO632
+Elfman
+SUV979
+STA199
+SUV459
+STA199
+LUX935
+STA209
+Mavis
+LUX935
+STA299
+LUX732
+ECO989
+LUX338
+ECO989
+ECO989
+ECO632
+Carla
+LUX305
+STA199
+Sting
+LUX338
+SUV115
+ECO632
+ECO989
+STA199
+ECO632
+STA209
+Mavis
+LUX935
+STA299
+LUX732
+ECO989
+LUX338
+ECO989
+ECO989
+ECO632
+Elfman
+SUV979
+STA199
+SUV459
+STA199
+LUX935
+STA209
+Cana
+SUV204
+ECO632
+Cana
+SUV204
+ECO632
+Happy
+LUX338
+LUX935
+STA299
+SUV204
+ECO989
+ECO632
+Gray
+ECO794
+Juvia
+LUX338
+Laxus
+SUV115
+STA299
+ECO414
+ECO632
+STA299
+LUX732
+STA199
+Elfman
+SUV979
+STA199
+SUV459
+STA199
+LUX935
+STA209
+Sting
+LUX338
+SUV115
+ECO632
+ECO989
+STA199
+ECO632
+STA209
+Mavis
+LUX935
+STA299
+LUX732
+ECO989
+LUX338
+ECO989
+ECO989
+ECO632
+Bickslow
+ECO989
+SUV355
+STA783
+SUV459
+ECO632
+Evergreen
+SUV330
+ECO632
+STA199
+LUX527
+ECO755
+Lily
+STA299
+STA299
+ECO632
+SUV603
+ECO794
+ECO414
+ECO794
+Elfman
+SUV979
+STA199
+SUV459
+STA199
+LUX935
+STA209
+Elfman
+SUV979
+STA199
+SUV459
+STA199
+LUX935
+STA209
+Rogue
+SUV979
+STA299
+STA199
+Rogue
+SUV979
+STA299
+STA199
+Bickslow
+ECO989
+SUV355
+STA783
+SUV459
+ECO632
+Natsu
+STA299
+Mirajane
+ECO755
+LUX935
+ECO893
+Freed
+STA299
+ECO632
+ECO632
+LUX305
+STA209
+Laxus
+SUV115
+STA299
+ECO414
+ECO632
+STA299
+LUX732
+STA199
+Elfman
+SUV979
+STA199
+SUV459
+STA199
+LUX935
+STA209
+Gajeel
+SUV459
+LUX527
+SUV355
+Customer: Happy
+Total Days Rented: 7
+License Plate: LUX338
+Car Add Ons: 
+License Plate: LUX935
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: 
+License Plate: SUV204
+Car Add Ons: 
+License Plate: ECO989
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Lily
+Total Days Rented: 7
+License Plate: STA299
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+License Plate: SUV603
+Car Add Ons: 
+License Plate: ECO794
+Car Add Ons: 
+License Plate: ECO414
+Car Add Ons: 
+License Plate: ECO794
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Gajeel
+Total Days Rented: 2
+License Plate: SUV459
+Car Add Ons: GPS - $15, Radio - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, GPS - $15, Radio - $10, 
+License Plate: LUX527
+Car Add Ons: Radio - $10, GPS - $15, Radio - $10, 
+License Plate: SUV355
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Mavis
+Total Days Rented: 7
+License Plate: LUX935
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: 
+License Plate: LUX732
+Car Add Ons: Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO989
+Car Add Ons: 
+License Plate: LUX338
+Car Add Ons: 
+License Plate: ECO989
+Car Add Ons: 
+License Plate: ECO989
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Sting
+Total Days Rented: 5
+License Plate: LUX338
+Car Add Ons: 
+License Plate: SUV115
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+License Plate: ECO989
+Car Add Ons: 
+License Plate: STA199
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+License Plate: STA209
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Bickslow
+Total Days Rented: 5
+License Plate: ECO989
+Car Add Ons: 
+License Plate: SUV355
+Car Add Ons: 
+License Plate: STA783
+Car Add Ons: 
+License Plate: SUV459
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Elfman
+Total Days Rented: 5
+License Plate: SUV979
+Car Add Ons: 
+License Plate: STA199
+Car Add Ons: 
+License Plate: SUV459
+Car Add Ons: 
+License Plate: STA199
+Car Add Ons: 
+License Plate: LUX935
+Car Add Ons: 
+License Plate: STA209
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 27
+Daily Profit: 0
+Daily Rentals: 86
+There are 17 cars available for rent. Here are your options!
+LUX732
+SUV355
+LUX935
+SUV330
+LUX527
+LUX338
+SUV979
+STA199
+ECO794
+STA299
+SUV459
+SUV888
+ECO414
+STA313
+SUV115
+ECO632
+STA209
+The current rentals: 
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Lisanna
+LUX305
+SUV979
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Lily
+STA299
+SUV603
+ECO414
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Igneel
+SUV204
+SUV603
+Gildarts
+SUV330
+LUX305
+LUX732
+Mavis
+STA299
+ECO989
+ECO989
+ECO632
+Lily
+STA299
+SUV603
+ECO414
+Gildarts
+SUV330
+LUX305
+LUX732
+Gildarts
+SUV330
+LUX305
+LUX732
+Gajeel
+LUX527
+Rogue
+SUV979
+STA299
+STA199
+Rogue
+SUV979
+STA299
+STA199
+Gajeel
+LUX527
+Evergreen
+SUV330
+ECO632
+STA199
+LUX527
+ECO755
+Gildarts
+SUV330
+LUX305
+LUX732
+Mirajane
+ECO755
+LUX935
+ECO893
+Lucy
+STA209
+Lily
+STA299
+SUV603
+ECO414
+Cana
+SUV204
+ECO632
+ECO989
+Elfman
+STA199
+STA199
+STA209
+Mavis
+STA299
+ECO989
+ECO989
+ECO632
+Carla
+LUX305
+STA199
+SUV204
+STA783
+ECO989
+Sting
+SUV115
+ECO989
+ECO632
+Mavis
+STA299
+ECO989
+ECO989
+ECO632
+Elfman
+STA199
+STA199
+STA209
+Cana
+SUV204
+ECO632
+ECO989
+Cana
+SUV204
+ECO632
+ECO989
+Happy
+LUX935
+SUV204
+ECO632
+Gray
+ECO794
+SUV603
+Juvia
+LUX338
+Laxus
+SUV115
+STA299
+ECO414
+ECO632
+STA299
+LUX732
+STA199
+Elfman
+STA199
+STA199
+STA209
+Sting
+SUV115
+ECO989
+ECO632
+Mavis
+STA299
+ECO989
+ECO989
+ECO632
+Bickslow
+SUV355
+SUV459
+Evergreen
+SUV330
+ECO632
+STA199
+LUX527
+ECO755
+Lily
+STA299
+SUV603
+ECO414
+Elfman
+STA199
+STA199
+STA209
+Elfman
+STA199
+STA199
+STA209
+Rogue
+SUV979
+STA299
+STA199
+Rogue
+SUV979
+STA299
+STA199
+Bickslow
+SUV355
+SUV459
+Natsu
+STA299
+Mirajane
+ECO755
+LUX935
+ECO893
+Freed
+STA299
+ECO632
+ECO632
+LUX305
+STA209
+Laxus
+SUV115
+STA299
+ECO414
+ECO632
+STA299
+LUX732
+STA199
+Elfman
+STA199
+STA199
+STA209
+Gajeel
+LUX527
+Cana
+SUV204
+ECO632
+ECO989
+Carla
+LUX305
+STA199
+SUV204
+STA783
+ECO989
+Gray
+ECO794
+SUV603
+Customer: Cana
+Total Days Rented: 3
+License Plate: SUV204
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO989
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Evergreen
+Total Days Rented: 5
+License Plate: SUV330
+Car Add Ons: Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO632
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: STA199
+Car Add Ons: 
+License Plate: LUX527
+Car Add Ons: Radio - $10, GPS - $15, Radio - $10, 
+License Plate: ECO755
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Mirajane
+Total Days Rented: 4
+License Plate: ECO755
+Car Add Ons: 
+License Plate: LUX935
+Car Add Ons: 
+License Plate: ECO893
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 28
+Daily Profit: 0
+Daily Rentals: 89
+There are 14 cars available for rent. Here are your options!
+LUX732
+LUX527
+LUX338
+SUV979
+STA199
+STA299
+SUV459
+SUV888
+ECO755
+ECO414
+STA313
+SUV115
+ECO632
+STA209
+The current rentals: 
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Lisanna
+LUX305
+SUV979
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Lily
+STA299
+SUV603
+ECO414
+ECO794
+ECO989
+SUV330
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Igneel
+SUV204
+SUV603
+Gildarts
+SUV330
+LUX305
+LUX732
+Mavis
+STA299
+ECO989
+ECO989
+ECO632
+STA783
+SUV204
+SUV355
+Lily
+STA299
+SUV603
+ECO414
+ECO794
+ECO989
+SUV330
+Gildarts
+SUV330
+LUX305
+LUX732
+Gildarts
+SUV330
+LUX305
+LUX732
+Gajeel
+LUX527
+Rogue
+SUV979
+STA299
+STA199
+Rogue
+SUV979
+STA299
+STA199
+Gajeel
+LUX527
+Gildarts
+SUV330
+LUX305
+LUX732
+Lucy
+STA209
+ECO893
+Lily
+STA299
+SUV603
+ECO414
+ECO794
+ECO989
+SUV330
+Elfman
+STA199
+STA199
+STA209
+Mavis
+STA299
+ECO989
+ECO989
+ECO632
+STA783
+SUV204
+SUV355
+Carla
+LUX305
+STA199
+SUV204
+STA783
+ECO989
+Sting
+SUV115
+ECO989
+ECO632
+SUV355
+LUX935
+SUV330
+Mavis
+STA299
+ECO989
+ECO989
+ECO632
+STA783
+SUV204
+SUV355
+Elfman
+STA199
+STA199
+STA209
+Cana
+ECO632
+Cana
+ECO632
+Happy
+LUX935
+SUV204
+ECO632
+Gray
+ECO794
+SUV603
+Juvia
+LUX338
+Laxus
+SUV115
+STA299
+ECO414
+ECO632
+STA299
+LUX732
+STA199
+Elfman
+STA199
+STA199
+STA209
+Sting
+SUV115
+ECO989
+ECO632
+SUV355
+LUX935
+SUV330
+Mavis
+STA299
+ECO989
+ECO989
+ECO632
+STA783
+SUV204
+SUV355
+Bickslow
+SUV355
+SUV459
+SUV355
+Evergreen
+ECO632
+LUX527
+Lily
+STA299
+SUV603
+ECO414
+ECO794
+ECO989
+SUV330
+Elfman
+STA199
+STA199
+STA209
+Elfman
+STA199
+STA199
+STA209
+Rogue
+SUV979
+STA299
+STA199
+Rogue
+SUV979
+STA299
+STA199
+Bickslow
+SUV355
+SUV459
+SUV355
+Natsu
+STA299
+Mirajane
+LUX935
+Freed
+STA299
+ECO632
+ECO632
+LUX305
+STA209
+Laxus
+SUV115
+STA299
+ECO414
+ECO632
+STA299
+LUX732
+STA199
+Elfman
+STA199
+STA199
+STA209
+Gajeel
+LUX527
+Cana
+ECO632
+Carla
+LUX305
+STA199
+SUV204
+STA783
+ECO989
+Gray
+ECO794
+SUV603
+Sting
+SUV115
+ECO989
+ECO632
+SUV355
+LUX935
+SUV330
+Lily
+STA299
+SUV603
+ECO414
+ECO794
+ECO989
+SUV330
+Bickslow
+SUV355
+SUV459
+SUV355
+Mavis
+STA299
+ECO989
+ECO989
+ECO632
+STA783
+SUV204
+SUV355
+Lucy
+STA209
+ECO893
+Customer: Gray
+Total Days Rented: 3
+License Plate: ECO794
+Car Add Ons: 
+License Plate: SUV603
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Bickslow
+Total Days Rented: 3
+License Plate: SUV355
+Car Add Ons: 
+License Plate: SUV459
+Car Add Ons: 
+License Plate: SUV355
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Lucy
+Total Days Rented: 2
+License Plate: STA209
+Car Add Ons: Radio - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO893
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 29
+Daily Profit: 0
+Daily Rentals: 92
+There are 16 cars available for rent. Here are your options!
+LUX732
+LUX527
+LUX338
+SUV979
+STA199
+ECO893
+ECO794
+STA299
+SUV603
+SUV459
+SUV888
+ECO755
+ECO414
+STA313
+ECO632
+STA209
+The current rentals: 
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Lisanna
+LUX305
+SUV979
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Lily
+STA299
+SUV603
+ECO414
+ECO794
+ECO989
+SUV330
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Igneel
+SUV204
+SUV603
+LUX935
+Gildarts
+SUV330
+LUX305
+LUX732
+Mavis
+STA299
+ECO989
+ECO989
+ECO632
+STA783
+SUV204
+SUV355
+Lily
+STA299
+SUV603
+ECO414
+ECO794
+ECO989
+SUV330
+Gildarts
+SUV330
+LUX305
+LUX732
+Gildarts
+SUV330
+LUX305
+LUX732
+Gajeel
+LUX527
+Rogue
+SUV979
+STA299
+STA199
+SUV115
+Rogue
+SUV979
+STA299
+STA199
+SUV115
+Gajeel
+LUX527
+Gildarts
+SUV330
+LUX305
+LUX732
+Lily
+STA299
+SUV603
+ECO414
+ECO794
+ECO989
+SUV330
+Elfman
+STA199
+STA199
+STA209
+Mavis
+STA299
+ECO989
+ECO989
+ECO632
+STA783
+SUV204
+SUV355
+Carla
+LUX305
+STA199
+SUV204
+STA783
+ECO989
+Sting
+SUV115
+ECO989
+ECO632
+SUV355
+LUX935
+SUV330
+Mavis
+STA299
+ECO989
+ECO989
+ECO632
+STA783
+SUV204
+SUV355
+Elfman
+STA199
+STA199
+STA209
+Cana
+ECO632
+Cana
+ECO632
+Happy
+LUX935
+SUV204
+ECO632
+Juvia
+LUX338
+Laxus
+SUV115
+STA299
+ECO414
+ECO632
+STA299
+LUX732
+STA199
+Elfman
+STA199
+STA199
+STA209
+Sting
+SUV115
+ECO989
+ECO632
+SUV355
+LUX935
+SUV330
+Mavis
+STA299
+ECO989
+ECO989
+ECO632
+STA783
+SUV204
+SUV355
+Evergreen
+ECO632
+LUX527
+Lily
+STA299
+SUV603
+ECO414
+ECO794
+ECO989
+SUV330
+Elfman
+STA199
+STA199
+STA209
+Elfman
+STA199
+STA199
+STA209
+Rogue
+SUV979
+STA299
+STA199
+SUV115
+Rogue
+SUV979
+STA299
+STA199
+SUV115
+Bickslow
+SUV459
+Natsu
+STA299
+SUV355
+Mirajane
+LUX935
+Freed
+STA299
+ECO632
+ECO632
+LUX305
+STA209
+Laxus
+SUV115
+STA299
+ECO414
+ECO632
+STA299
+LUX732
+STA199
+Elfman
+STA199
+STA199
+STA209
+Gajeel
+LUX527
+Cana
+ECO632
+Carla
+LUX305
+STA199
+SUV204
+STA783
+ECO989
+Gray
+SUV603
+Sting
+SUV115
+ECO989
+ECO632
+SUV355
+LUX935
+SUV330
+Lily
+STA299
+SUV603
+ECO414
+ECO794
+ECO989
+SUV330
+Bickslow
+SUV459
+Mavis
+STA299
+ECO989
+ECO989
+ECO632
+STA783
+SUV204
+SUV355
+Lucy
+ECO893
+Igneel
+SUV204
+SUV603
+LUX935
+Rogue
+SUV979
+STA299
+STA199
+SUV115
+Natsu
+STA299
+SUV355
+Customer: Lily
+Total Days Rented: 7
+License Plate: STA299
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV603
+Car Add Ons: 
+License Plate: ECO414
+Car Add Ons: 
+License Plate: ECO794
+Car Add Ons: 
+License Plate: ECO989
+Car Add Ons: 
+License Plate: SUV330
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Carla
+Total Days Rented: 5
+License Plate: LUX305
+Car Add Ons: Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: STA199
+Car Add Ons: Radio - $10, Car Seat - $10, Radio - $10, Car Seat - $10, GPS - $15, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV204
+Car Add Ons: 
+License Plate: STA783
+Car Add Ons: 
+License Plate: ECO989
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Mavis
+Total Days Rented: 7
+License Plate: STA299
+Car Add Ons: 
+License Plate: ECO989
+Car Add Ons: 
+License Plate: ECO989
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: STA783
+Car Add Ons: 
+License Plate: SUV204
+Car Add Ons: 
+License Plate: SUV355
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Laxus
+Total Days Rented: 7
+License Plate: SUV115
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: 
+License Plate: ECO414
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: STA299
+Car Add Ons: 
+License Plate: LUX732
+Car Add Ons: 
+License Plate: STA199
+Car Add Ons: Radio - $10, Car Seat - $10, Radio - $10, Car Seat - $10, GPS - $15, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Sting
+Total Days Rented: 4
+License Plate: SUV115
+Car Add Ons: 
+License Plate: ECO989
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV355
+Car Add Ons: 
+License Plate: LUX935
+Car Add Ons: 
+License Plate: SUV330
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Rogue
+Total Days Rented: 5
+License Plate: SUV979
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: 
+License Plate: STA199
+Car Add Ons: 
+License Plate: SUV115
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 30
+Daily Profit: 0
+Daily Rentals: 98
+There are 19 cars available for rent. Here are your options!
+LUX732
+SUV355
+LUX935
+SUV330
+LUX527
+LUX338
+SUV979
+STA199
+ECO893
+STA299
+STA783
+SUV603
+SUV459
+SUV888
+ECO414
+SUV204
+SUV115
+ECO989
+STA209
+The current rentals: 
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+Lisanna
+LUX305
+SUV979
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+Igneel
+SUV204
+SUV603
+LUX935
+Gildarts
+SUV330
+LUX305
+LUX732
+Lily
+SUV603
+ECO794
+SUV330
+Gildarts
+SUV330
+LUX305
+LUX732
+Gildarts
+SUV330
+LUX305
+LUX732
+Gajeel
+LUX527
+Rogue
+STA299
+SUV115
+Gajeel
+LUX527
+Gildarts
+SUV330
+LUX305
+LUX732
+Lily
+SUV603
+ECO794
+SUV330
+Elfman
+STA199
+STA199
+STA209
+Mavis
+ECO989
+ECO632
+SUV204
+Mavis
+ECO989
+ECO632
+SUV204
+Elfman
+STA199
+STA199
+STA209
+Cana
+ECO632
+Cana
+ECO632
+Happy
+LUX935
+SUV204
+ECO632
+LUX305
+STA313
+ECO794
+Juvia
+LUX338
+Elfman
+STA199
+STA199
+STA209
+Sting
+ECO989
+SUV355
+SUV330
+ECO755
+ECO632
+Mavis
+ECO989
+ECO632
+SUV204
+Evergreen
+ECO632
+LUX527
+Lily
+SUV603
+ECO794
+SUV330
+Elfman
+STA199
+STA199
+STA209
+Elfman
+STA199
+STA199
+STA209
+Rogue
+STA299
+SUV115
+Rogue
+STA299
+SUV115
+Bickslow
+SUV459
+Natsu
+STA299
+SUV355
+ECO794
+Mirajane
+LUX935
+Freed
+STA299
+ECO632
+ECO632
+LUX305
+STA209
+Laxus
+STA299
+ECO632
+LUX732
+Elfman
+STA199
+STA199
+STA209
+Gajeel
+LUX527
+Cana
+ECO632
+Carla
+STA199
+STA783
+Gray
+SUV603
+Sting
+ECO989
+SUV355
+SUV330
+ECO755
+ECO632
+Lily
+SUV603
+ECO794
+SUV330
+Bickslow
+SUV459
+Mavis
+ECO989
+ECO632
+SUV204
+Lucy
+ECO893
+Igneel
+SUV204
+SUV603
+LUX935
+Rogue
+STA299
+SUV115
+Natsu
+STA299
+SUV355
+ECO794
+Happy
+LUX935
+SUV204
+ECO632
+LUX305
+STA313
+ECO794
+Sting
+ECO989
+SUV355
+SUV330
+ECO755
+ECO632
+Natsu
+STA299
+SUV355
+ECO794
+Customer: Igneel
+Total Days Rented: 4
+License Plate: SUV204
+Car Add Ons: 
+License Plate: SUV603
+Car Add Ons: 
+License Plate: LUX935
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Natsu
+Total Days Rented: 3
+License Plate: STA299
+Car Add Ons: 
+License Plate: SUV355
+Car Add Ons: 
+License Plate: ECO794
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 31
+Daily Profit: 0
+Daily Rentals: 100
+There are 10 cars available for rent. Here are your options!
+LUX732
+LUX338
+SUV979
+STA199
+STA783
+SUV603
+SUV459
+ECO414
+SUV115
+ECO989
+The current rentals: 
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+SUV355
+SUV888
+STA313
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+SUV355
+SUV888
+STA313
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+SUV355
+SUV888
+STA313
+Lisanna
+LUX305
+SUV979
+STA209
+LUX935
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+SUV330
+ECO893
+LUX527
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+SUV330
+ECO893
+LUX527
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+SUV330
+ECO893
+LUX527
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+SUV330
+ECO893
+LUX527
+Gildarts
+SUV330
+LUX305
+LUX732
+STA299
+Lily
+SUV603
+ECO794
+SUV330
+Gildarts
+SUV330
+LUX305
+LUX732
+STA299
+Gildarts
+SUV330
+LUX305
+LUX732
+STA299
+Gajeel
+LUX527
+Rogue
+STA299
+SUV115
+SUV355
+ECO893
+SUV204
+ECO632
+Gajeel
+LUX527
+Gildarts
+SUV330
+LUX305
+LUX732
+STA299
+Lily
+SUV603
+ECO794
+SUV330
+Elfman
+STA199
+STA199
+STA209
+Mavis
+ECO989
+ECO632
+SUV204
+Mavis
+ECO989
+ECO632
+SUV204
+Elfman
+STA199
+STA199
+STA209
+Cana
+ECO632
+Cana
+ECO632
+Happy
+LUX935
+SUV204
+ECO632
+LUX305
+STA313
+ECO794
+Juvia
+LUX338
+Elfman
+STA199
+STA199
+STA209
+Sting
+ECO989
+SUV355
+SUV330
+ECO755
+ECO632
+Mavis
+ECO989
+ECO632
+SUV204
+Evergreen
+ECO632
+LUX527
+Lily
+SUV603
+ECO794
+SUV330
+Elfman
+STA199
+STA199
+STA209
+Elfman
+STA199
+STA199
+STA209
+Rogue
+STA299
+SUV115
+SUV355
+ECO893
+SUV204
+ECO632
+Rogue
+STA299
+SUV115
+SUV355
+ECO893
+SUV204
+ECO632
+Bickslow
+SUV459
+Mirajane
+LUX935
+SUV355
+ECO794
+Freed
+STA299
+ECO632
+ECO632
+LUX305
+STA209
+Laxus
+STA299
+ECO632
+LUX732
+Elfman
+STA199
+STA199
+STA209
+Gajeel
+LUX527
+Cana
+ECO632
+Carla
+STA199
+STA783
+Gray
+SUV603
+Sting
+ECO989
+SUV355
+SUV330
+ECO755
+ECO632
+Lily
+SUV603
+ECO794
+SUV330
+Bickslow
+SUV459
+Mavis
+ECO989
+ECO632
+SUV204
+Lucy
+ECO893
+Igneel
+SUV603
+Rogue
+STA299
+SUV115
+SUV355
+ECO893
+SUV204
+ECO632
+Natsu
+SUV355
+Happy
+LUX935
+SUV204
+ECO632
+LUX305
+STA313
+ECO794
+Sting
+ECO989
+SUV355
+SUV330
+ECO755
+ECO632
+Natsu
+SUV355
+Rogue
+STA299
+SUV115
+SUV355
+ECO893
+SUV204
+ECO632
+Lisanna
+LUX305
+SUV979
+STA209
+LUX935
+Mirajane
+LUX935
+SUV355
+ECO794
+Erza
+ECO632
+Rogue
+STA299
+SUV115
+SUV355
+ECO893
+SUV204
+ECO632
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+SUV355
+SUV888
+STA313
+Gildarts
+SUV330
+LUX305
+LUX732
+STA299
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+SUV330
+ECO893
+LUX527
+Customer: Gildarts
+Total Days Rented: 4
+License Plate: SUV330
+Car Add Ons: 
+License Plate: LUX305
+Car Add Ons: 
+License Plate: LUX732
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Sting
+Total Days Rented: 4
+License Plate: ECO989
+Car Add Ons: 
+License Plate: SUV355
+Car Add Ons: 
+License Plate: SUV330
+Car Add Ons: 
+License Plate: ECO755
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: Radio - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Freed
+Total Days Rented: 5
+License Plate: STA299
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+License Plate: LUX305
+Car Add Ons: 
+License Plate: STA209
+Car Add Ons: Car Seat - $10, GPS - $15, Radio - $10, 
+The total cost for the rental: 0
+Customer: Rogue
+Total Days Rented: 4
+License Plate: STA299
+Car Add Ons: 
+License Plate: SUV115
+Car Add Ons: 
+License Plate: SUV355
+Car Add Ons: 
+License Plate: ECO893
+Car Add Ons: 
+License Plate: SUV204
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Erza
+Total Days Rented: 1
+License Plate: ECO632
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 32
+Daily Profit: 0
+Daily Rentals: 105
+There are 11 cars available for rent. Here are your options!
+LUX732
+SUV355
+LUX338
+SUV979
+STA199
+SUV459
+ECO755
+SUV115
+ECO632
+ECO989
+STA209
+The current rentals: 
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+SUV355
+SUV888
+STA313
+STA783
+LUX935
+LUX305
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+SUV355
+SUV888
+STA313
+STA783
+LUX935
+LUX305
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+SUV355
+SUV888
+STA313
+STA783
+LUX935
+LUX305
+Lisanna
+LUX305
+SUV979
+STA209
+LUX935
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+SUV330
+ECO893
+LUX527
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+SUV330
+ECO893
+LUX527
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+SUV330
+ECO893
+LUX527
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+SUV330
+ECO893
+LUX527
+Lily
+SUV603
+ECO794
+SUV330
+Gildarts
+LUX305
+STA299
+STA313
+LUX305
+SUV603
+STA299
+Gildarts
+LUX305
+STA299
+STA313
+LUX305
+SUV603
+STA299
+Gajeel
+LUX527
+Gajeel
+LUX527
+Gildarts
+LUX305
+STA299
+STA313
+LUX305
+SUV603
+STA299
+Lily
+SUV603
+ECO794
+SUV330
+Elfman
+STA199
+STA199
+STA209
+Mavis
+ECO989
+ECO632
+SUV204
+Mavis
+ECO989
+ECO632
+SUV204
+Elfman
+STA199
+STA199
+STA209
+Cana
+ECO632
+Cana
+ECO632
+Happy
+LUX935
+SUV204
+ECO632
+LUX305
+STA313
+ECO794
+Juvia
+LUX338
+Elfman
+STA199
+STA199
+STA209
+Mavis
+ECO989
+ECO632
+SUV204
+Evergreen
+ECO632
+LUX527
+SUV330
+ECO893
+ECO414
+STA313
+SUV204
+Lily
+SUV603
+ECO794
+SUV330
+Elfman
+STA199
+STA199
+STA209
+Elfman
+STA199
+STA199
+STA209
+Rogue
+SUV115
+ECO893
+ECO632
+Rogue
+SUV115
+ECO893
+ECO632
+Bickslow
+SUV459
+Mirajane
+LUX935
+SUV355
+ECO794
+Laxus
+STA299
+ECO632
+LUX732
+Elfman
+STA199
+STA199
+STA209
+Gajeel
+LUX527
+Cana
+ECO632
+Carla
+STA199
+STA783
+Gray
+SUV603
+SUV204
+Sting
+SUV355
+ECO755
+Lily
+SUV603
+ECO794
+SUV330
+Bickslow
+SUV459
+Mavis
+ECO989
+ECO632
+SUV204
+Lucy
+ECO893
+SUV603
+Igneel
+SUV603
+Rogue
+SUV115
+ECO893
+ECO632
+Natsu
+SUV355
+Happy
+LUX935
+SUV204
+ECO632
+LUX305
+STA313
+ECO794
+Sting
+SUV355
+ECO755
+Natsu
+SUV355
+Rogue
+SUV115
+ECO893
+ECO632
+Lisanna
+LUX305
+SUV979
+STA209
+LUX935
+Mirajane
+LUX935
+SUV355
+ECO794
+Rogue
+SUV115
+ECO893
+ECO632
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+SUV355
+SUV888
+STA313
+STA783
+LUX935
+LUX305
+Gildarts
+LUX305
+STA299
+STA313
+LUX305
+SUV603
+STA299
+Makarov
+SUV459
+ECO989
+SUV888
+ECO755
+SUV330
+ECO893
+LUX527
+Lucy
+ECO893
+SUV603
+Evergreen
+ECO632
+LUX527
+SUV330
+ECO893
+ECO414
+STA313
+SUV204
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+SUV355
+SUV888
+STA313
+STA783
+LUX935
+LUX305
+Erza
+STA299
+Evergreen
+ECO632
+LUX527
+SUV330
+ECO893
+ECO414
+STA313
+SUV204
+Gildarts
+LUX305
+STA299
+STA313
+LUX305
+SUV603
+STA299
+Gildarts
+LUX305
+STA299
+STA313
+LUX305
+SUV603
+STA299
+Gray
+SUV603
+SUV204
+Customer: Makarov
+Total Days Rented: 7
+License Plate: SUV459
+Car Add Ons: GPS - $15, Radio - $10, 
+License Plate: ECO989
+Car Add Ons: 
+License Plate: SUV888
+Car Add Ons: 
+License Plate: ECO755
+Car Add Ons: 
+License Plate: SUV330
+Car Add Ons: 
+License Plate: ECO893
+Car Add Ons: 
+License Plate: LUX527
+Car Add Ons: Radio - $10, GPS - $15, Radio - $10, Radio - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Mirajane
+Total Days Rented: 3
+License Plate: LUX935
+Car Add Ons: 
+License Plate: SUV355
+Car Add Ons: 
+License Plate: ECO794
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Gray
+Total Days Rented: 1
+License Plate: SUV603
+Car Add Ons: 
+License Plate: SUV204
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Evergreen
+Total Days Rented: 3
+License Plate: ECO632
+Car Add Ons: 
+License Plate: LUX527
+Car Add Ons: 
+License Plate: SUV330
+Car Add Ons: 
+License Plate: ECO893
+Car Add Ons: 
+License Plate: ECO414
+Car Add Ons: 
+License Plate: STA313
+Car Add Ons: 
+License Plate: SUV204
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Gildarts
+Total Days Rented: 5
+License Plate: LUX305
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: 
+License Plate: STA313
+Car Add Ons: 
+License Plate: LUX305
+Car Add Ons: 
+License Plate: SUV603
+Car Add Ons: 
+License Plate: STA299
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 33
+Daily Profit: 0
+Daily Rentals: 110
+There are 12 cars available for rent. Here are your options!
+LUX732
+LUX527
+LUX338
+LUX305
+SUV979
+STA299
+SUV603
+SUV459
+ECO755
+ECO414
+SUV204
+ECO632
+The current rentals: 
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+SUV355
+SUV888
+STA313
+STA783
+LUX935
+LUX305
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+SUV355
+SUV888
+STA313
+STA783
+LUX935
+LUX305
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+SUV355
+SUV888
+STA313
+STA783
+LUX935
+LUX305
+Lisanna
+LUX305
+SUV979
+STA209
+LUX935
+STA313
+SUV115
+ECO893
+Makarov
+ECO989
+ECO755
+ECO893
+Makarov
+ECO989
+ECO755
+ECO893
+Makarov
+ECO989
+ECO755
+ECO893
+Lily
+SUV603
+ECO794
+SUV330
+ECO893
+SUV355
+SUV355
+SUV330
+SUV888
+ECO989
+Gildarts
+STA299
+LUX305
+STA299
+Gajeel
+LUX527
+Gajeel
+LUX527
+Gildarts
+STA299
+LUX305
+STA299
+Lily
+SUV603
+ECO794
+SUV330
+ECO893
+SUV355
+SUV355
+SUV330
+SUV888
+ECO989
+Elfman
+STA199
+STA199
+STA209
+Mavis
+ECO989
+ECO632
+SUV204
+Mavis
+ECO989
+ECO632
+SUV204
+Elfman
+STA199
+STA199
+STA209
+Cana
+ECO632
+STA209
+Cana
+ECO632
+STA209
+Happy
+LUX935
+SUV204
+ECO632
+LUX305
+STA313
+ECO794
+Juvia
+LUX338
+LUX935
+Elfman
+STA199
+STA199
+STA209
+Mavis
+ECO989
+ECO632
+SUV204
+Lily
+SUV603
+ECO794
+SUV330
+ECO893
+SUV355
+SUV355
+SUV330
+SUV888
+ECO989
+Elfman
+STA199
+STA199
+STA209
+Elfman
+STA199
+STA199
+STA209
+Rogue
+SUV115
+ECO893
+ECO632
+Rogue
+SUV115
+ECO893
+ECO632
+Bickslow
+SUV459
+Laxus
+STA299
+ECO632
+LUX732
+Elfman
+STA199
+STA199
+STA209
+Gajeel
+LUX527
+Cana
+ECO632
+STA209
+Carla
+STA199
+STA783
+Sting
+SUV355
+ECO755
+Lily
+SUV603
+ECO794
+SUV330
+ECO893
+SUV355
+SUV355
+SUV330
+SUV888
+ECO989
+Bickslow
+SUV459
+Mavis
+ECO989
+ECO632
+SUV204
+Lucy
+ECO893
+SUV603
+Igneel
+SUV603
+Rogue
+SUV115
+ECO893
+ECO632
+Natsu
+SUV355
+Happy
+LUX935
+SUV204
+ECO632
+LUX305
+STA313
+ECO794
+Sting
+SUV355
+ECO755
+Natsu
+SUV355
+Rogue
+SUV115
+ECO893
+ECO632
+Lisanna
+LUX305
+SUV979
+STA209
+LUX935
+STA313
+SUV115
+ECO893
+Mirajane
+SUV355
+STA199
+SUV888
+ECO893
+Rogue
+SUV115
+ECO893
+ECO632
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+SUV355
+SUV888
+STA313
+STA783
+LUX935
+LUX305
+Gildarts
+STA299
+LUX305
+STA299
+Makarov
+ECO989
+ECO755
+ECO893
+Lucy
+ECO893
+SUV603
+Evergreen
+LUX527
+ECO893
+STA313
+Wendy
+ECO755
+ECO632
+SUV603
+ECO755
+SUV459
+SUV355
+SUV888
+STA313
+STA783
+LUX935
+LUX305
+Erza
+STA299
+Evergreen
+LUX527
+ECO893
+STA313
+Gildarts
+STA299
+LUX305
+STA299
+Gildarts
+STA299
+LUX305
+STA299
+Gray
+SUV204
+Lily
+SUV603
+ECO794
+SUV330
+ECO893
+SUV355
+SUV355
+SUV330
+SUV888
+ECO989
+Cana
+ECO632
+STA209
+Lisanna
+LUX305
+SUV979
+STA209
+LUX935
+STA313
+SUV115
+ECO893
+Freed
+ECO632
+LUX305
+ECO794
+SUV888
+Lily
+SUV603
+ECO794
+SUV330
+ECO893
+SUV355
+SUV355
+SUV330
+SUV888
+ECO989
+Freed
+ECO632
+LUX305
+ECO794
+SUV888
+Mirajane
+SUV355
+STA199
+SUV888
+ECO893
+Juvia
+LUX338
+LUX935
+Customer: Wendy
+Total Days Rented: 7
+License Plate: ECO755
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: Radio - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV603
+Car Add Ons: 
+License Plate: ECO755
+Car Add Ons: 
+License Plate: SUV459
+Car Add Ons: 
+License Plate: SUV355
+Car Add Ons: 
+License Plate: SUV888
+Car Add Ons: 
+License Plate: STA313
+Car Add Ons: 
+License Plate: STA783
+Car Add Ons: 
+License Plate: LUX935
+Car Add Ons: 
+License Plate: LUX305
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Happy
+Total Days Rented: 7
+License Plate: LUX935
+Car Add Ons: 
+License Plate: SUV204
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: Radio - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: LUX305
+Car Add Ons: 
+License Plate: STA313
+Car Add Ons: 
+License Plate: ECO794
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Lucy
+Total Days Rented: 3
+License Plate: ECO893
+Car Add Ons: 
+License Plate: SUV603
+Car Add Ons: 
+The total cost for the rental: 0
+Day: 34
+Daily Profit: 0
+Daily Rentals: 113
+There are 14 cars available for rent. Here are your options!
+LUX732
+LUX935
+LUX338
+LUX305
+ECO893
+ECO794
+STA299
+STA783
+SUV603
+SUV459
+SUV888
+ECO414
+STA313
+ECO632
+The current rentals: 
+Wendy
+ECO632
+ECO755
+SUV355
+STA313
+LUX935
+Wendy
+ECO632
+ECO755
+SUV355
+STA313
+LUX935
+Lisanna
+LUX305
+SUV979
+STA209
+LUX935
+STA313
+SUV115
+ECO893
+Makarov
+ECO989
+ECO755
+ECO893
+Makarov
+ECO989
+ECO755
+ECO893
+Makarov
+ECO989
+ECO755
+ECO893
+Lily
+SUV603
+ECO794
+SUV330
+ECO893
+SUV355
+SUV355
+SUV330
+SUV888
+ECO989
+Gildarts
+STA299
+LUX305
+STA299
+Gajeel
+LUX527
+STA199
+Gajeel
+LUX527
+STA199
+Gildarts
+STA299
+LUX305
+STA299
+Lily
+SUV603
+ECO794
+SUV330
+ECO893
+SUV355
+SUV355
+SUV330
+SUV888
+ECO989
+Elfman
+STA199
+STA199
+STA209
+SUV979
+STA209
+LUX527
+Mavis
+ECO989
+ECO632
+SUV204
+ECO755
+SUV204
+SUV355
+Mavis
+ECO989
+ECO632
+SUV204
+ECO755
+SUV204
+SUV355
+Elfman
+STA199
+STA199
+STA209
+SUV979
+STA209
+LUX527
+Cana
+ECO632
+STA209
+Cana
+ECO632
+STA209
+Juvia
+LUX338
+LUX935
+Elfman
+STA199
+STA199
+STA209
+SUV979
+STA209
+LUX527
+Mavis
+ECO989
+ECO632
+SUV204
+ECO755
+SUV204
+SUV355
+Lily
+SUV603
+ECO794
+SUV330
+ECO893
+SUV355
+SUV355
+SUV330
+SUV888
+ECO989
+Elfman
+STA199
+STA199
+STA209
+SUV979
+STA209
+LUX527
+Elfman
+STA199
+STA199
+STA209
+SUV979
+STA209
+LUX527
+Rogue
+SUV115
+ECO893
+ECO632
+Rogue
+SUV115
+ECO893
+ECO632
+Bickslow
+SUV459
+Laxus
+STA299
+ECO632
+LUX732
+Elfman
+STA199
+STA199
+STA209
+SUV979
+STA209
+LUX527
+Gajeel
+LUX527
+STA199
+Cana
+ECO632
+STA209
+Carla
+STA199
+STA783
+Sting
+SUV355
+ECO755
+Lily
+SUV603
+ECO794
+SUV330
+ECO893
+SUV355
+SUV355
+SUV330
+SUV888
+ECO989
+Bickslow
+SUV459
+Mavis
+ECO989
+ECO632
+SUV204
+ECO755
+SUV204
+SUV355
+Igneel
+SUV603
+Rogue
+SUV115
+ECO893
+ECO632
+Natsu
+SUV355
+Happy
+SUV204
+LUX305
+ECO794
+Sting
+SUV355
+ECO755
+Natsu
+SUV355
+Rogue
+SUV115
+ECO893
+ECO632
+Lisanna
+LUX305
+SUV979
+STA209
+LUX935
+STA313
+SUV115
+ECO893
+Mirajane
+SUV355
+STA199
+SUV888
+ECO893
+Rogue
+SUV115
+ECO893
+ECO632
+Wendy
+ECO632
+ECO755
+SUV355
+STA313
+LUX935
+Gildarts
+STA299
+LUX305
+STA299
+Makarov
+ECO989
+ECO755
+ECO893
+Lucy
+SUV603
+STA199
+Evergreen
+LUX527
+ECO893
+STA313
+Wendy
+ECO632
+ECO755
+SUV355
+STA313
+LUX935
+Erza
+STA299
+Evergreen
+LUX527
+ECO893
+STA313
+Gildarts
+STA299
+LUX305
+STA299
+Gildarts
+STA299
+LUX305
+STA299
+Gray
+SUV204
+Lily
+SUV603
+ECO794
+SUV330
+ECO893
+SUV355
+SUV355
+SUV330
+SUV888
+ECO989
+Cana
+ECO632
+STA209
+Lisanna
+LUX305
+SUV979
+STA209
+LUX935
+STA313
+SUV115
+ECO893
+Freed
+ECO632
+LUX305
+ECO794
+SUV888
+Lily
+SUV603
+ECO794
+SUV330
+ECO893
+SUV355
+SUV355
+SUV330
+SUV888
+ECO989
+Freed
+ECO632
+LUX305
+ECO794
+SUV888
+Mirajane
+SUV355
+STA199
+SUV888
+ECO893
+Juvia
+LUX338
+LUX935
+Elfman
+STA199
+STA199
+STA209
+SUV979
+STA209
+LUX527
+Gajeel
+LUX527
+STA199
+Mavis
+ECO989
+ECO632
+SUV204
+ECO755
+SUV204
+SUV355
+Lucy
+SUV603
+STA199
+Customer: Lisanna
+Total Days Rented: 4
+License Plate: LUX305
+Car Add Ons: 
+License Plate: SUV979
+Car Add Ons: 
+License Plate: STA209
+Car Add Ons: Radio - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: LUX935
+Car Add Ons: 
+License Plate: STA313
+Car Add Ons: 
+License Plate: SUV115
+Car Add Ons: 
+License Plate: ECO893
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Lily
+Total Days Rented: 7
+License Plate: SUV603
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO794
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV330
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO893
+Car Add Ons: 
+License Plate: SUV355
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV355
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV330
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV888
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO989
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Gajeel
+Total Days Rented: 1
+License Plate: LUX527
+Car Add Ons: 
+License Plate: STA199
+Car Add Ons: Car Seat - $10, Car Seat - $10, GPS - $15, GPS - $15, Radio - $10, Radio - $10, 
+The total cost for the rental: 0
+Customer: Cana
+Total Days Rented: 5
+License Plate: ECO632
+Car Add Ons: 
+License Plate: STA209
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Juvia
+Total Days Rented: 2
+License Plate: LUX338
+Car Add Ons: 
+License Plate: LUX935
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Elfman
+Total Days Rented: 4
+License Plate: STA199
+Car Add Ons: Car Seat - $10, Car Seat - $10, GPS - $15, GPS - $15, Radio - $10, Radio - $10, 
+License Plate: STA199
+Car Add Ons: Car Seat - $10, Car Seat - $10, GPS - $15, GPS - $15, Radio - $10, Radio - $10, 
+License Plate: STA209
+Car Add Ons: 
+License Plate: SUV979
+Car Add Ons: 
+License Plate: STA209
+Car Add Ons: 
+License Plate: LUX527
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Lucy
+Total Days Rented: 1
+License Plate: SUV603
+Car Add Ons: 
+License Plate: STA199
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Erza
+Total Days Rented: 3
+License Plate: STA299
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Freed
+Total Days Rented: 4
+License Plate: ECO632
+Car Add Ons: 
+License Plate: LUX305
+Car Add Ons: 
+License Plate: ECO794
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV888
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Day: 35
+Daily Profit: 0
+Daily Rentals: 122
+There are 21 cars available for rent. Here are your options!
+LUX732
+SUV355
+LUX935
+SUV330
+LUX527
+LUX338
+LUX305
+SUV979
+STA199
+ECO893
+ECO794
+STA299
+STA783
+SUV603
+SUV888
+ECO414
+STA313
+SUV115
+ECO632
+ECO989
+STA209
+The current rentals: 
+Wendy
+ECO632
+ECO755
+SUV355
+STA313
+LUX935
+Wendy
+ECO632
+ECO755
+SUV355
+STA313
+LUX935
+Makarov
+ECO989
+ECO755
+ECO893
+Makarov
+ECO989
+ECO755
+ECO893
+Makarov
+ECO989
+ECO755
+ECO893
+Gildarts
+STA299
+LUX305
+STA299
+Gajeel
+STA199
+Gildarts
+STA299
+LUX305
+STA299
+Lily
+ECO794
+ECO893
+SUV355
+SUV888
+Mavis
+ECO989
+ECO632
+SUV204
+ECO755
+SUV204
+SUV355
+Mavis
+ECO989
+ECO632
+SUV204
+ECO755
+SUV204
+SUV355
+Elfman
+STA199
+SUV979
+LUX527
+Cana
+STA209
+Elfman
+STA199
+SUV979
+LUX527
+Mavis
+ECO989
+ECO632
+SUV204
+ECO755
+SUV204
+SUV355
+Lily
+ECO794
+ECO893
+SUV355
+SUV888
+Elfman
+STA199
+SUV979
+LUX527
+Elfman
+STA199
+SUV979
+LUX527
+Rogue
+SUV115
+ECO893
+ECO632
+Rogue
+SUV115
+ECO893
+ECO632
+Bickslow
+SUV459
+Laxus
+STA299
+ECO632
+LUX732
+Elfman
+STA199
+SUV979
+LUX527
+Gajeel
+STA199
+Cana
+STA209
+Carla
+STA199
+STA783
+Sting
+SUV355
+ECO755
+Lily
+ECO794
+ECO893
+SUV355
+SUV888
+Bickslow
+SUV459
+Mavis
+ECO989
+ECO632
+SUV204
+ECO755
+SUV204
+SUV355
+Igneel
+SUV603
+Rogue
+SUV115
+ECO893
+ECO632
+Natsu
+SUV355
+Happy
+SUV204
+LUX305
+ECO794
+Sting
+SUV355
+ECO755
+Natsu
+SUV355
+Rogue
+SUV115
+ECO893
+ECO632
+Lisanna
+SUV979
+LUX935
+SUV115
+Mirajane
+SUV355
+STA199
+SUV888
+ECO893
+Rogue
+SUV115
+ECO893
+ECO632
+Wendy
+ECO632
+ECO755
+SUV355
+STA313
+LUX935
+Gildarts
+STA299
+LUX305
+STA299
+Makarov
+ECO989
+ECO755
+ECO893
+Evergreen
+LUX527
+ECO893
+STA313
+Wendy
+ECO632
+ECO755
+SUV355
+STA313
+LUX935
+Evergreen
+LUX527
+ECO893
+STA313
+Gildarts
+STA299
+LUX305
+STA299
+Gildarts
+STA299
+LUX305
+STA299
+Gray
+SUV204
+SUV459
+Lily
+ECO794
+ECO893
+SUV355
+SUV888
+Cana
+STA209
+Lisanna
+SUV979
+LUX935
+SUV115
+Lily
+ECO794
+ECO893
+SUV355
+SUV888
+Freed
+LUX305
+SUV888
+Mirajane
+SUV355
+STA199
+SUV888
+ECO893
+Juvia
+LUX935
+Elfman
+STA199
+SUV979
+LUX527
+Gajeel
+STA199
+Mavis
+ECO989
+ECO632
+SUV204
+ECO755
+SUV204
+SUV355
+Lucy
+STA199
+Gray
+SUV204
+SUV459
+Customer: Mavis
+Total Days Rented: 7
+License Plate: ECO989
+Car Add Ons: 
+License Plate: ECO632
+Car Add Ons: 
+License Plate: SUV204
+Car Add Ons: 
+License Plate: ECO755
+Car Add Ons: Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: SUV204
+Car Add Ons: 
+License Plate: SUV355
+Car Add Ons: Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+The total cost for the rental: 0
+Customer: Gray
+Total Days Rented: 1
+License Plate: SUV204
+Car Add Ons: 
+License Plate: SUV459
+Car Add Ons: 
+The total cost for the rental: 0
+Customer: Mirajane
+Total Days Rented: 5
+License Plate: SUV355
+Car Add Ons: Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: STA199
+Car Add Ons: 
+License Plate: SUV888
+Car Add Ons: Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Radio - $10, GPS - $15, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, GPS - $15, Radio - $10, Car Seat - $10, Car Seat - $10, Radio - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, Car Seat - $10, 
+License Plate: ECO893
+Car Add Ons: 
+The total cost for the rental: 0
+The Total Amount of Rentals: 125
+The Total Profit: $100000
